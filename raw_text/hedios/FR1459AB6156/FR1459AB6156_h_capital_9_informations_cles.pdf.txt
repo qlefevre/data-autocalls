@@ -1,0 +1,371 @@
+Document d'informations
+clés
+Objectif
+Le présent document contient des informations essentielles sur le produit d'investissement. Il ne s’agit pas d’un document à caractère
+commercial. Ces informations vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste ce
+produit et quels risques, coûts, gains et pertes potentiels y sont associés, et de vous aider à le comparer à d’autres produits.
+
+Produit
+Les informations dans ce document sont préliminaires et peuvent être complétées ou modifiées.
+Nom du produit
+
+Produit (sous forme de titre de créance) de remboursement par anticipation de 12 ans lié à l'indice EURO iSTOXX® 50
+Equal Weight NR Decrement 5% («H Capital 9»)
+ISIN: FR1459AB6156 | Valoren: 134737698
+Goldman Sachs Finance Corp International Ltd, faisant partie de The Goldman Sachs Group, Inc. (visitez http://
+www.gspriips.eu ou appelez le +442070510104 pour de plus amples informations)
+Autorité des Marchés Financiers (AMF) est chargée du contrôle de Goldman Sachs Finance Corp International Ltd en
+ce qui concerne ce document d’informations clés.
+9 janvier 2025 à 16:57:55, heure locale à Paris
+
+Identificateur du produit
+Initiateur du produit
+Autorité compétente
+Date du document
+
+Vous êtes sur le point d'acheter un produit qui n’est pas simple et qui peut être difficile à comprendre.
+
+En quoi consiste ce produit?
+Type
+
+Le produit est un titre de créance de droit français. Ce produit ne génère pas d’intérêts. Les obligations de paiement de l'initiateur du
+produit sont garanties par The Goldman Sachs Group, Inc.
+
+Durée
+
+Le produit a une durée déterminée et sera échu le 23 septembre 2037, à moins qu’un événement de remboursement par anticipation
+se produise.
+
+Objectifs
+
+Le produit offre un potentiel d'appréciation du capital et ne génère pas d'intérêts. Le montant que vous recevrez à l’échéance du
+produit n’est pas connu à l’avance et dépendra de la performance de l'indice EURO iSTOXX® 50 Equal Weight NR Decrement 5%
+(l’actif sous-jacent). Le produit sera échu au plus tard le 23 septembre 2037. Toutefois, le produit peut être remboursé par anticipation
+en fonction de la performance de l'actif sous-jacent. Chaque titre de créance a une valeur nominale de 1 000 EUR. Le prix d'émission
+est fixé à 100,00% de la valeur nominale. Le produit sera coté à la bourse Luxembourg Stock Exchange (Main Segment). La période
+de souscription débute le 10 juin 2025 et se termine le 16 septembre 2025. La date d'émission est le 16 janvier 2025.
+Le rendement de ce produit est déterminé en fonction de la performance d'un actif sous-jacent modifié, qui est calculée en
+réinvestissant tous les dividendes nets payés par le(s) composant(s) de l'actif sous-jacent et en soustrayant un Décrément prédéfini. Si
+les dividendes réels payés par le(s) composant(s) de l'actif sous-jacent sont inférieurs au Décrément prédéfini, la performance modifiée
+de l'actif sous-jacent sera pénalisée par rapport à la performance "price return". Par contre, si les dividendes réels payés par le(s)
+composant(s) de l'actif sous-jacent est/sont supérieur(s) au Décrément prédéfini, la performance modifiée de l'actif sous-jacent sera
+améliorée par rapport à la performance "price return" traditionnelle.
+Décrément prédéfini: Le Décrément prédéfini pour l'actif sous-jacent est indiqué dans le tableau ci-dessous. Le Décrément prédéfini
+est un montant annualisé et est détaché quotidiennement.
+.
+
+Actif sous-jacent
+
+Décrément prédéfini
+
+EURO iSTOXX® 50 Equal Weight NR Decrement 5%
+
+5,00%
+
+.
+
+Fonction du remboursement par anticipation: Si le cours de clôture de l'actif sous-jacent, à une date d'observation du
+remboursement par anticipation, est supérieur ou égal à 110,00% du cours de référence initial, le produit terminera à la date de
+paiement du remboursement par anticipation correspondante. Dans ce cas, vous recevrez un paiement de remboursement par
+anticipation pour chaque titre de créance que vous détiendrez. Les dates d'observation de remboursement par anticipation sont
+l'ensemble des jours de négociation glissant tous les ans à partir du 16 septembre 2026 (inclus) jusqu'au 16 septembre 2036 (inclus).
+Les dates de paiement du remboursement par anticipation tombent 5 jours ouvrés faisant suite à chaque date d'observation de
+remboursement par anticipation. Le paiement associé à la première date de paiement du remboursement par anticipation est de
+1 060,00 EUR et augmentera par la suite de 60,00 EUR à chaque date de paiement.
+Remboursement à l'échéance:
+Cette section s'applique uniquement si aucun remboursement par anticipation ne se produit, comme décrit ci-dessus.
+Le 23 septembre 2037, pour chaque titre de créance que vous détiendrez:
+1.
+
+Si le cours de clôture de l'actif sous-jacent le 16 septembre 2037 est au moins égal à 80,00% du cours de référence initial, vous
+recevrez 1 720,00 EUR; ou
+
+2.
+Sinon, vous recevrez 1 000,00 EUR;
+Le cours de référence initial de l'actif sous-jacent est le cours de clôture le 16 septembre 2025.
+Le niveau de barrière du remboursement par anticipation est égal à 110,00% du cours de référence initial.
+Les conditions relatives au produit prévoient également que si certains événements exceptionnels surviennent, (1) des adaptations
+peuvent être apportées au produit et/ou (2) l'émetteur du produit peut résilier le produit de façon anticipée. Ces événements sont
+spécifiés dans les conditions relatives au produit et concernent principalement l'actif sous-jacent, le produit et l'initiateur du produit. Le
+rendement (le cas échéant) que vous recevrez lors d'une telle résiliation anticipée est susceptible d'être différent du rendement dans
+les scénarios décrits ci-dessus et peut être inférieur au montant que vous avez investi.
+
+Investisseurs de détail Le produit est destiné à être offert aux investisseurs de détail qui:
+visés
+
+Page 1
+
+DocID: / 75def80a-ca0a-4e3f-9cca-b072bdd33a46
+
+1.
+
+ont la capacité de prendre une décision d'investissement éclairée grâce à une compréhension et des connaissances
+suffisantes du produit et de ses risques et avantages spécifiques, avec une expérience passée dans l’investissement et/ou
+la détention d'un nombre de produits comparables qui fournissent une exposition similaire au marché;
+
+2.
+
+recherchent la croissance de leur capital, s'attendent à ce que l'actif sous-jacent évolue de manière à générer un
+rendement favorable, ont un horizon d'investissement qui correspond à la période de détention recommandée précisée cidessous et comprennent que le produit peut être résilié de façon anticipée;
+
+3.
+
+acceptent le risque que l'émetteur ou le garant puisse ne pas payer ou exécuter ses obligations au titre du produit, mais ne
+peuvent sinon supporter aucune perte de leur investissement;
+
+4.
+
+sont prêts à accepter un niveau de risque pour obtenir des rendements potentiels conforme à l'indicateur synthétique de
+risque présenté ci-dessous; et
+
+5.
+
+suivent les recommandations d'un conseiller professionnel.
+
+Quels sont les risques et qu’est-ce que cela pourrait me rapporter?
+Indicateur de risque
+
+Risque le plus faible
+
+Risque le plus élevé
+
+L’indicateur de risque part de l’hypothèse que vous conservez le produit jusqu'au 23 septembre 2037. Le
+risque réel peut être très différent si vous optez pour une sortie avant échéance, et vous pourriez obtenir
+moins en retour. Vous risquez de ne pas pouvoir vendre facilement votre produit, ou de devoir le vendre à
+un prix qui influera sensiblement sur le montant que vous percevrez en retour.
+L’indicateur synthétique de risque permet d'apprécier le niveau de risque de ce produit par rapport à d’autres. Il indique la probabilité
+que ce produit enregistre des pertes en cas de mouvements sur les marchés ou d'une impossibilité de notre part de vous payer.
+Nous avons classé ce produit dans la classe de risque 2 sur 7, qui est une classe de risque basse. Cela prend en compte deux
+éléments: (1) le risque de marché - c’est-à-dire que les pertes potentielles liées aux futurs résultats du produit se situent à un niveau
+faible; et (2) le risque de crédit - c’est-à-dire que si la situation venait à se détériorer sur les marchés, il est très peu probable que notre
+capacité à vous payer en soit affectée.
+Vous avez droit à la restitution d'au moins 100,00% de la valeur nominale du produit. Quant à d’éventuels remboursements au-delà
+de ce pourcentage et à d’éventuels rendements supplémentaires, ils dépendent des performances futures des marchés et restent
+aléatoires. Toutefois, cette protection contre les aléas de marché ne s'appliquera pas en cas de sortie avant le 23 septembre 2037. Si
+nous ne sommes pas en mesure de vous verser les sommes dues, vous pouvez perdre l'intégralité de votre investissement.
+L'inflation érode la valeur d'achat de l'argent au fil du temps, ce qui peut provoquer la baisse en termes réels de tout capital remboursé.
+
+Scénarios de
+performance
+
+Ce que vous obtiendrez de ce produit dépend des performances futures du marché. L’évolution future du marché est
+aléatoire et ne peut être prédite avec précision.
+Les scénarios présentés représentent des exemples basés sur les résultats du passé et sur certaines hypothèses. Les
+marchés pourraient évoluer très différemment à l’avenir.
+Période de détention recommandée:
+
+Jusqu’à ce que le produit soit remboursé par anticipation ou
+arrive à échéance
+Ceci peut être différent selon le scénario et est indiqué dans le tableau
+
+Exemple d’investissement:
+
+10 000,00 EUR
+
+Scénarios
+
+Si vous sortez
+après 1 an
+
+Minimum
+
+10 000 EUR. Le rendement n’est garanti que si vous détenez le produit jusqu'à un remboursement
+anticipé ou à l'échéance. Vous pourriez perdre tout ou une partie de votre investissement.
+
+Tensions
+
+Ce que vous pourriez obtenir après
+déduction des coûts
+Rendement annuel moyen
+
+7 339 EUR
+
+7 223 EUR
+
+10 000 EUR
+
+-26,6%
+
+-4,5%
+
+0,0%
+
+Ce que vous pourriez obtenir après
+déduction des coûts
+Rendement annuel moyen
+
+8 022 EUR
+
+7 419 EUR
+
+10 000 EUR
+
+-19,8%
+
+-4,2%
+
+0,0%
+
+Ce que vous pourriez obtenir après
+déduction des coûts
+Rendement annuel moyen
+
+8 484 EUR
+
+10 600 EUR
+
+-15,2%
+
+3,5%
+
+Ce que vous pourriez obtenir après
+déduction des coûts
+Rendement annuel moyen
+
+8 943 EUR
+
+11 216 EUR
+
+14 800 EUR
+
+-10,6%
+
+1,7%
+
+4,6%
+
+(le produit est
+remboursé après 12
+ans)
+Défavorable
+(le produit est
+remboursé après 12
+ans)
+Intermédiaire
+(le produit est
+remboursé après 1 an)
+Favorable
+(le produit est
+remboursé après 8
+ans)
+
+Si vous sortez
+après 6 ans
+
+Si vous sortez suite
+à un remboursement
+par anticipation
+ou à l’échéance
+
+.
+
+Les scénarios favorable, intermédiaire, défavorable et de tensions représentent des résultats possibles basés sur des simulations
+utilisant la performance passée de l'actif sous-jacent pendant une période jusqu'à 5 années. En cas de remboursement anticipé,
+il a été supposé qu'aucun réinvestissement n'a été réalisé. Le scénario de tensions montre ce que vous pourriez obtenir dans des
+
+Page 2
+
+DocID: / 75def80a-ca0a-4e3f-9cca-b072bdd33a46
+
+situations de marché extrêmes. Il n’est pas facile de sortir de ce produit. Si vous sortez de l’investissement avant la fin de période de
+détention recommandée aucune garantie ne vous est donnée et vous pourriez subir des coûts supplémentaires.
+Les chiffres indiqués comprennent tous les coûts du produit lui-même, mais pas nécessairement tous les frais dus à votre conseiller ou
+distributeur. Ces chiffres ne tiennent pas compte de votre situation fiscale personnelle, qui peut également influer sur les montants que
+vous recevrez.
+
+Que se passe-t-il si Goldman Sachs Finance Corp International Ltd n’est pas en mesure d’effectuer les
+versements?
+Le produit n’est couvert par aucun système d'indemnisation des investisseurs ou de garantie. Cela signifie que si nous devenions insolvables, et si le garant
+devient également insolvable ou ne peut pas payer l'intégralité du montant garanti, vous risquez de perdre l'intégralité de votre investissement.
+
+Que va me coûter cet investissement?
+Il se peut que la personne qui vous vend ce produit ou qui vous fournit des conseils à son sujet vous demande de payer des coûts supplémentaires. Si c’est le
+cas, cette personne vous informera au sujet de ces coûts et vous montrera l’incidence de ces coûts sur votre investissement.
+
+Coûts au fil du temps
+
+Les tableaux présentent les montants prélevés sur votre investissement afin de couvrir les différents types de coûts. Ces montants
+dépendent du montant que vous investissez et du temps pendant lequel vous détenez le produit. Les montants indiqués ici sont des
+illustrations basées sur un exemple de montant d’investissement et différentes périodes d’investissement.
+La durée de ce produit est aléatoire étant donné qu’il peut être résilié à différents moments selon l’évolution du marché. Les montants
+indiqués ici prennent en considération deux scénarios différents (remboursement anticipé et échéance). Dans le cas où vous
+choisissez de sortir avant la fin du produit, des coûts de sortie peuvent s’appliquer en plus des montants indiqués ici.
+Nous avons supposé:
+• que 10 000,00 EUR sont investis
+• une performance du produit qui correspond à chaque période de détention présentée.
+Si le produit est remboursé par
+anticipation à la première date
+possible, le 23 septembre 2026
+Coûts totaux
+Incidence des coûts annuels*
+
+Si le produit arrive à échéance
+
+875 EUR
+
+875 EUR
+
+5,8% chaque année
+
+0,8% chaque année
+
+.
+
+*Ceci montre dans quelle mesure les coûts réduisent annuellement votre rendement au cours de la période de détention. Par exemple,
+ceci montre que si vous sortez à l’échéance, il est prévu que votre rendement moyen par an soit de 5,1% avant déduction des coûts et
+de 4,4% après cette déduction.
+Il se peut que nous partagions les coûts avec la personne qui vous vend le produit afin de couvrir les services qu’elle vous fournit.
+Cette personne vous informera du montant.
+
+Composition des coûts
+
+.
+
+Si vous sortez
+après 1 an
+
+Coûts ponctuels à l’entrée ou à la sortie
+Coûts d'entrée
+
+8,8% du montant que vous payez au moment de l’entrée dans l’investissement. Ces
+coûts sont déjà compris dans le prix que vous payez.
+
+875 EUR
+
+Coûts de sortie
+
+2,5% de votre investissement avant qu’il ne vous soit payé. Ces coûts sont déjà
+compris dans le prix que vous recevrez et seront dus seulement si vous sortez avant
+échéance. Si un remboursement anticipé se produit ou que vous détenez le produit
+jusqu'à l'échéance, aucun coût de sortie ne sera dû.
+
+252 EUR
+
+.
+
+Combien de temps dois-je le conserver, et puis-je retirer de l’argent de façon anticipée?
+Période de détention recommandée: 12 ans
+La période de détention recommandée pour le produit est de 12 ans car le produit est conçu pour être conservé jusqu'à l'échéance; il est toutefois possible que le
+produit soit résilié avant sa date d'échéance finale en cas d'un remboursement par anticipation ou dans le cas d'un événement extraordinaire. Vous n'avez aucun
+droit contractuel de résilier le produit avant l'échéance.
+L’initiateur n'est pas tenu de constituer un marché secondaire du produit, mais peut choisir de racheter le produit avant l’échéance au cas par cas. Dans de
+telles circonstances, le prix indiqué reflètera un écart acheteur-vendeur et tous les coûts associés au retrait des arrangements de couverture de l’initiateur liés au
+produit. En outre, la personne qui vous a vendu le produit peut vous facturer des frais de courtage si vous vendez le produit.
+
+Comment puis-je formuler une réclamation?
+Toute plainte concernant la personne vous conseillant ou commercialisant le produit (notamment votre intermédiaire) peut être déposée directement auprès de
+cette personne. Toute plainte concernant le produit et/ou l'initiateur du produit peut être déposée conformément aux mesures énoncées sur http://www.gspriips.eu.
+Les plaintes peuvent aussi être adressées par écrit à Goldman Sachs International, PRIIP KID - Compliance Securities, Plumtree Court, 25 Shoe Lane, London,
+EC4A 4AU, United Kingdom ou peuvent être envoyées par email à gs-eq-priip-kid-compliance@gs.com.
+
+Autres informations pertinentes
+Toute documentation supplémentaire relative au produit, en particulier la documentation du programme d'émission, tous suppléments à celui-ci et les termes
+du produit sont disponibles gratuitement, sur demande, auprès de l'initiateur du produit. Lorsque le produit est émis conformément au règlement Prospectus de
+l'UE (règlement (UE) 2017/1129, tel que modifié), ou au règlement Prospectus britannique (règlement (UE) 2017/1129, faisant partie du droit national britannique
+en vertu de l'European Union (Withdrawal) Act 2018 et des règlements qui en découlent, tels que modifiés), le cas échéant, cette documentation est également
+disponible comme décrit sur http://www.gspriips.eu.
+
+Page 3
+
+DocID: / 75def80a-ca0a-4e3f-9cca-b072bdd33a46
+

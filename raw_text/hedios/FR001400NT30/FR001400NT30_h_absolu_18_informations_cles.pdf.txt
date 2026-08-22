@@ -1,0 +1,416 @@
+Document d'Informations Clés
+
+Ref. interne: EI470RAZ
+URL: http://kid.bnpparibas.com/EI470RAZ-EE2AD-FR.pdf
+
+Objectif
+
+Le présent document contient des informations essentielles sur le produit d'investissement. Il ne s'agit pas d'un document à caractère commercial. Ces informations vous sont fournies
+conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste ce produit et quels risques, coûts, gains et pertes potentiels y sont associés, et de vous aider
+à le comparer à d'autres produits.
+
+Produit
+H Absolu 18
+ISIN
+Initiateur
+Autorité compétente
+Date de production du
+document
+
+FR001400NT30
+BNP Paribas S.A. - www.bnpparibas.com - Tel. +33 (0)1 57 08 22 00 pour plus d'informations
+Émetteur: BNP Paribas Issuance B.V. - Garant: BNP Paribas S.A.
+Autorité des marchés financiers (AMF) est chargée du contrôle de BNP Paribas S.A. en ce qui concerne ce document d’informations clés
+1 février 2024 15:57:25 CET
+
+Vous êtes sur le point d'acheter un produit qui n'est pas simple et peut être difficile à comprendre.
+
+En quoi consiste ce produit?
+Type
+Ce produit est un EMTN, un titre de créance négociable. A l'échéance, il n'offre pas de protection du capital contre le risque de marché.
+
+Durée
+Ce produit a une durée déterminée et sera remboursé à la Date de remboursement à moins qu'il ne soit remboursé de manière anticipée conformément aux dispositions relatives au
+Remboursement anticipé automatique ci-après.
+
+Objectifs
+Ce produit est indexé sur la performance d'un indice sous-jacent.
+À moins que le produit n'ait été remboursé de manière anticipée, les dispositions
+suivantes s'appliqueront.
+À la Date de remboursement, vous recevrez, par EMTN :
+1. Si le Prix de référence final est supérieur(e) ou égal(e) à 80% du Prix de référence
+initial: un montant équivalent à 184% de la Valeur nominale.
+2. Si le Prix de référence final est inférieur(e) à 80% du Prix de référence initial :
+a. Si aucun Franchissement de Barrière n'est survenu : un montant équivalent à la
+Valeur nominale.
+
+b. Si un Franchissement de Barrière est survenu : un montant équivalent à la
+Valeur nominale, diminué de la Performance du Sous-jacent. Vous subirez donc une
+perte partielle ou totale de la Valeur nominale.
+Remboursement anticipé automatique : Si, à une Date d'évaluation de remboursement
+anticipé automatique, le cours de clôture du Sous-jacent est supérieur(e) ou égal(e) à
+100% du Prix de référence initial, le produit sera remboursé à la date correspondante.
+Vous recevrez, par EMTN un montant équivalent à la Valeur nominale, plus une prime
+qui dépend du Taux de sortie applicable.
+
+Avec :
+Un Franchissement de Barrière intervient si le Prix de référence final est inférieur(e) à la Barrière.
+La Performance d'un Sous-jacent correspond à la différence entre son Prix de référence final et son Prix de référence initial, divisée par son Prix de référence initial, exprimée en
+valeur absolue.
+Le Prix de référence initial correspond au cours de clôture du Sous-jacent à la Date de constatation initiale.
+Le Prix de référence final correspond au cours de clôture du Sous-jacent à la Date de constatation finale.
+Données sur le produit
+Date de constatation initiale
+Date d’émission
+Date de constatation finale
+Date de remboursement (échéance)
+
+1 juillet 2024
+22 avril 2024
+1 juillet 2036
+8 juillet 2036
+
+Prix d’émission
+Devise du produit
+Valeur nominale (par EMTN)
+
+100%
+EUR
+1 000 EUR
+
+Barrière
+
+70% du Prix de référence initial
+
+Date(s) d'évaluation de remboursement
+anticipé automatique
+
+Voir Annexe
+
+Date(s) de remboursement anticipé
+automatique
+
+Voir Annexe
+
+Taux de sortie
+
+Voir Annexe
+
+Sous-jacent
+EURO iSTOXX 50 Equal Weight NR Decrement 5%
+
+Code Bloomberg
+ISXE50T5
+
+Les termes du produit prévoient qu'en cas d'évènements exceptionnels : (1) des ajustements peuvent être effectués auprès du produit et/ou (2) l'Emetteur du produit peut rembourser
+le produit par anticipation. Ces évènements sont précisés dans les termes du produit et sont principalement en lien avec le(s) Sous-Jacent(s), le produit et l'émetteur du produit. Le
+retour sur investissement (s'il y a) peut être différent des scenarios décris au dessus et notamment moins conséquent que le montant investi.
+Tout remboursement décrit dans ce document (y compris les gains potentiels) est calculé sur la base de la Valeur Nominale Courante, hors frais, commissions, prélèvements sociaux
+et fiscaux éventuels applicables au cadre d'investissement et en l'absence de faillite ou de défaut de paiement de l'Emetteur et du Garant ainsi que en cas de mise en résolution du
+Garant.
+
+Investisseurs de détail visés
+Ce produit a été conçu pour les investisseurs de détail qui :
+disposent d'un horizon d'investissement à long terme (plus de cinq ans).
+
+Classification : Internal
+
+cherchent à investir dans un produit de croissance, éventuellement pour diversifier leur portefeuille.
+sont en mesure de supporter des pertes pouvant atteindre la totalité de la Valeur nominale à échéance et acceptent l'éventualité d'un remboursement anticipé du produit.
+disposent de connaissances suffisantes sur les marchés financiers, leurs fonctionnements et leurs risques, et la classe d'actifs du sous-jacent ou ont été informés de ces éléments
+par un professionnel.
+
+Quels sont les risques et qu’est-ce que cela pourrait me rapporter?
+Indicateur de risque
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+L'indicateur de risque part de l'hypothèse que vous conservez le produit jusqu'au 8 July 2036. Le
+risque réel peut être très différent si vous optez pour une sortie avant échéance, et vous pourriez
+obtenir moins en retour. Vous risquez de ne pas pouvoir vendre facilement votre produit, ou de
+devoir le vendre à un prix qui influera sensiblement sur le montant que vous percevrez en retour.
+
+Risque le plus
+Risque le plus élevé
+faible
+L'indicateur synthétique de risque permet d'apprécier le niveau de risque de ce produit par rapport à d'autres. Il indique la probabilité que ce produit enregistre des pertes en cas de
+mouvements sur les marchés ou d'une impossibilité de notre part de vous payer.
+Nous avons classé ce produit dans la classe de risque 5 sur 7, qui est une classe de risque entre moyenne et élevée.
+Autrement dit, les pertes potentielles liées aux futurs résultats du produit se situent à un niveau entre moyen et élevé et, si la situation venait à se détériorer sur les marchés, il est
+très peu probable que notre capacité à vous payer en soit affectée.
+Vous recevrez des paiements libellés dans la devise du produit, qui est susceptible de différer de votre devise nationale. Dans ce cas, prenez bien conscience du risque de change.
+Le rendement final que vous obtiendrez dépend du taux de change entre les deux devises. Ledit risque n'est pas pris en compte dans l'indicateur susmentionné.
+Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.
+Si nous ne sommes pas en mesure de vous verser les sommes dues, vous pouvez perdre l'intégralité de votre investissement.
+Pour de plus amples informations sur l'ensemble des risques, veuillez consulter les articles relatifs aux risques dans la documentation juridique.
+
+Scénarios de performance
+Ce que vous obtiendrez de ce produit dépend des performances futures du marché. L'évolution future du marché est aléatoire et ne peut être prédite avec précision.
+Les scénarios présentés représentent des exemples basés sur les résultats du passé et sur certaines hypothèses. Les marchés pourraient évoluer très différemment à
+l'avenir.
+Jusqu'à ce que le produit soit résilié ou arrive à échéance. Elle peut être différente selon le scénario et est
+indiquée dans le tableau.
+10 000 EUR
+
+Période de détention recommandée
+Exemple d’investissement
+
+Si vous sortez après
+1 an
+
+Scénarios
+Minimum
+Scénario de tensions
+(le produit est résilié après le 8
+juillet 2036)
+Scénario défavorable
+(le produit est résilié après le 8
+juillet 2036)
+Scénario intermédiaire
+(le produit est résilié après le 8
+juillet 2025)
+Scénario favorable
+(le produit est résilié après le 9
+juillet 2029)
+
+Si vous sortez après
+7 ans
+
+Si vous sortez à
+résiliation ou à
+l’échéance
+
+Il n'existe aucun rendement minimal garanti. Vous pourriez perdre tout ou une partie de votre investissement.
+Ce que vous pourriez obtenir après déduction des coûts
+1 235 EUR
+1 338 EUR
+
+691 EUR
+
+Rendement annuel moyen
+
+-87,65%
+
+-24,97%
+
+-19,93%
+
+Ce que vous pourriez obtenir après déduction des coûts
+
+5 849 EUR
+
+4 182 EUR
+
+3 800 EUR
+
+Rendement annuel moyen
+
+-41,51%
+
+-11,71%
+
+-7,73%
+
+Ce que vous pourriez obtenir après déduction des coûts
+
+9 440 EUR
+
+10 700 EUR
+
+Rendement annuel moyen
+
+-5,6%
+
+6,86%
+
+Ce que vous pourriez obtenir après déduction des coûts
+
+9 440 EUR
+
+13 500 EUR
+
+Rendement annuel moyen
+
+-5,6%
+
+6,16%
+
+Les chiffres indiqués comprennent tous les coûts du produit lui-même, mais pas nécessairement tous les frais dus à votre conseiller ou distributeur. Ces chiffres ne tiennent pas
+compte de votre situation fiscale personnelle, qui peut également influer sur les montants que vous recevrez.
+Le scénario de tensions montre ce que vous pourriez obtenir dans des situations de marché extrêmes.
+Les scénarios favorables, intermédiaire et défavorable représentent des résultats possibles, qui ont été calculés sur la base de simulations utilisant la performance passée du sousjacent sur les 5 dernières années. En cas de résiliation anticipée, nous avons supposé qu'aucun réinvestissement n'avait eu lieu.
+Il n'est pas facile de sortir ce produit. Si vous sortez de l'investissement avant la fin de la période de détention recommandée, aucune garantie ne vous est donnée et vous pourriez
+subir des coûts supplémentaires.
+
+Que se passe-t-il si BNP Paribas S.A. n’est pas en mesure d’effectuer les versements?
+Si l'Émetteur est en défaut de paiement ou fait faillite, vous pouvez prétendre à un paiement de la part du Garant, en vertu d'une garantie inconditionnelle et irrévocable de tout
+montant exigible. Si le Garant est en défaut de paiement, fait faillite ou en cas de mise en résolution, vous pourrez subir une perte à hauteur de la totalité du montant investi.
+Le produit n'est couvert par aucun système d'indemnisation des investisseurs ou de garantie.
+L'attention des investisseurs est attirée sur le fait que BNP Paribas, agissant en qualité de Garant, est agréé en tant qu'établissement de crédit en France et est soumis en tant que
+tel au régime de résolution bancaire introduit par la Directive européenne 2014/59/UE du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements
+de crédit et des entreprises d'investissement. Cette nouvelle réglementation confère, entre autres, aux autorités de résolution, le pouvoir de modifier les principaux termes de la
+garantie, de réduire, y compris jusqu'à zéro, les montants susceptibles d'être dûs par le Garant au titre de la garantie ou de convertir les montants susceptibles d'être dûs par le
+Garant au titre de la garantie en titres de capital. Une restructuration peut être imposée par les autorités de résolution afin d'éviter la faillite. L'investisseur est susceptible de ne pas
+recouvrer, le cas échéant, la totalité ou partie du montant qui est dû par le Garant au titre de la garantie ou l'investisseur peut être susceptible de recevoir, le cas échéant, tout autre
+instrument financier émis par le Garant (ou toute autre entité) en remplacement du montant qui est dû au titre du produit émis par l'Emetteur. Il est entendu que dans cette hypothèse,
+le montant perçu par l'investisseur pourra être significativement inférieur au montant dû au titre du produit, à échéance.
+
+Que va me coûter cet investissement?
+Il se peut que la personne qui vous vend ce produit ou qui vous fournit des conseils à son sujet vous demande de payer des coûts supplémentaires. Si c'est le cas, cette personne
+vous informera au sujet de ces coûts et vous montrera l'incidence de ces coûts sur votre investissement.
+
+Classification : Internal
+2
+
+Coûts au fil du temps
+Les tableaux présentent les montants prélevés sur votre investissement afin de couvrir les différents types de coûts. Ces montants dépendent du montant que vous investissez, du
+temps pendant lequel vous détenez le produit et du rendement du produit. Les montants indiqués ici sont des illustrations basées sur un exemple de montant d'investissement et
+différentes périodes d'investissement possibles:
+La durée de ce produit est aléatoire étant donné qu'il peut être résilié à différents moments selon l'évolution du marché. Les montants indiqués ici prennent en considération deux
+scénarios différents (résiliation anticipée et échéance). Dans le cas où vous choisissez de sortir avant la fin du produit, des coûts de sortie peuvent s'appliquer en plus des montants
+indiqués ici.
+Nous avons supposé:
+- 10 000 EUR sont investis
+- une performance du produit qui correspond à chaque période de détention présentée.
+Investissement de 10 000 EUR
+
+Si le produit est résilié dès la première date possible 8
+juillet 2025
+
+Scénarios
+Coûts totaux
+Incidence des coûts annuels(*)
+
+795 EUR
+9,05%
+
+Si le produit arrive à échéance
+795 EUR
+0,7%
+
+(*) Elle montre dans quelle mesure les coûts réduisent annuellement votre rendement au cours de la période de détention. Par exemple, elle montre que si vous sortez à l'échéance
+
+il est prévu que votre rendement moyen par an soit de 1,26% avant déduction des coûts et de 0,56% après cette déduction.
+Il se peut que nous partagions les coûts avec la personne qui vous vend le produit afin de couvrir les services qu'elle vous fournit. Cette personne vous informera du montant.
+
+Composition des coûts
+Coûts ponctuels à l’entrée ou à la sortie
+
+Si vous sortez après 1 an
+7,95% du montant que vous payez au moment de l'entrée dans l'investissement.
+Ces coûts sont déjà compris dans le prix que vous payez.
+0,5% du montant nominal. Ces coûts s'appliquent uniquement si vous sortez avant l'échéance ou la
+résiliation anticipée du produit. Le nombre indiqué suppose que des conditions normales de marché
+s'appliquent.
+
+Coûts d'entrée
+Coûts de sortie
+
+795 EUR
+50 EUR
+
+Coûts récurrents prélevés chaque année
+Frais de gestion et autres frais
+administratifs et d’exploitation
+Coûts de transaction
+
+0% de votre investissement par an.
+
+0 EUR
+
+0%
+
+0 EUR
+
+Coûts accessoires prélevés sous certaines conditions
+Commissions liées aux résultats
+
+Aucune commission liée aux résultats n'existe pour ce produit.
+
+0 EUR
+
+Combien de temps dois-je le conserver et puis-je retirer de l’argent de façon anticipée?
+Période de détention recommandée: jusqu'au 8 juillet 2036, qui correspond à l'échéance du produit.
+Toutefois, la durée du produit n'est pas connue à l'avance, car il est susceptible d'être remboursé de manière anticipée.
+L'objectif du produit est de vous fournir le profil de remboursement décrit dans la rubrique « En quoi consiste ce produit ? » ci-dessus. Cela s'applique uniquement si le produit est
+conservé jusqu'à son échéance.
+Dans des conditions normales de marché, vous pourrez revendre ce produit à un prix qui dépendra des paramètres de marché au moment de la revente, ce qui pourrait engendrer
+une perte. En cas de revente, une commission de 0,50% sera déduite du prix de marché, cette commission pourrait être augmentée dans des conditions exceptionnelles de marché.
+La commission de 0,50% a été prise en compte dans le tableau. Par ailleurs, le distributeur peut prélever des coûts supplémentaires en cas de sortie avant l'échéance.
+
+Comment puis-je formuler une réclamation?
+Toute plainte concernant la personne ayant conseillé ou vendu le produit peut lui être directement soumise.
+Toute plainte concernant le produit peut être soumise en écrivant à l'adresse suivante : BNP Paribas CLM Regulations - Client Engagement and Protection Regulations - Torre
+Ocidente Rua Galileu Galilei, 2, 13º, 1500-392, Lisboa, PORTUGAL, en envoyant un e-mail à cib.priips.complaints@bnpparibas.com, ou en utilisant le formulaire en ligne disponible
+sur le site Internet suivant : https://kid.bnpparibas.com/cib/claim.
+
+Autres informations pertinentes
+Les informations contenues dans le présent Document d'Informations Clés ne constituent pas une recommandation d'achat ou de vente du produit, et ne sauraient vous dispenser
+de contacter votre banque ou conseiller.
+Pour obtenir des informations supplémentaires sur le produit, y compris sur les risques encourus, veuillez-vous référer à la documentation juridique du produit (prospectus /prospectus
+de base et ses suppléments, et conditions définitives), disponible gratuitement auprès de votre conseiller financier.
+Ce produit ne peut être ni offert, ni vendu, directement ou indirectement, aux États-Unis d'Amérique ou à des « U.S. persons » L'expression « U.S. person » est définie dans la
+Réglementation S en vertu de l'U.S. Securities Act of 1993 (Securities Act). L'offre de ce produit n'a pas été enregistrée en vertu du Securities Act.
+Le(s) Sponsor(s) de l'indice ne fait/font aucune déclaration quant à l'opportunité d'une transaction sur le produit qu'il(s) s'abstient/s'abstiennent de vendre et de promouvoir.
+
+Classification : Internal
+3
+
+ANNEXE
+Remboursement anticipé automatique
+Date(s) d'évaluation de remboursement anticipé
+automatique
+1 juillet 2025
+1 juillet 2026
+1 juillet 2027
+3 juillet 2028
+2 juillet 2029
+1 juillet 2030
+1 juillet 2031
+1 juillet 2032
+1 juillet 2033
+3 juillet 2034
+2 juillet 2035
+
+Date(s) de remboursement anticipé automatique
+
+Taux de sortie
+
+8 juillet 2025
+8 juillet 2026
+8 juillet 2027
+10 juillet 2028
+9 juillet 2029
+8 juillet 2030
+8 juillet 2031
+8 juillet 2032
+8 juillet 2033
+10 juillet 2034
+9 juillet 2035
+
+7% de la Valeur Nominale Courante
+14% de la Valeur Nominale Courante
+21% de la Valeur Nominale Courante
+28% de la Valeur Nominale Courante
+35% de la Valeur Nominale Courante
+42% de la Valeur Nominale Courante
+49% de la Valeur Nominale Courante
+56% de la Valeur Nominale Courante
+63% de la Valeur Nominale Courante
+70% de la Valeur Nominale Courante
+77% de la Valeur Nominale Courante
+
+Classification : Internal
+4
+

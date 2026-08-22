@@ -1,0 +1,383 @@
+Document d´Informations Clés
+Objectif
+Le présent document contient des informations essentielles sur le produit d´investissement. Il ne s´agit pas d´un document à caractère commercial.
+Ces informations vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste ce produit et quels
+risques, coûts, gains et pertes potentiels y sont associés, et de vous aider à le comparer à d´autres produits.
+
+Produit
+Nom :
+ISIN :
+Nom de l’initiateur du PRIIP:
+Emetteur :
+Autorité Compétente:
+Coordonnées de l’initiateur du PRIIP:
+Date de production
+du Document d’Informations Clés :
+
+H Performance 56
+FR001400O4V5
+Crédit Mutuel Arkéa
+Crédit Mutuel Arkéa
+Autorité des marchés financiers (AMF) et Banque centrale européenne (BCE)
+www.cm-arkea.com, 02 99 85 98 65
+12 février 2024
+
+Vous avez acheté un produit qui n´est pas simple et qui peut être difficile à comprendre
+
+En quoi consiste ce produit ?
+Type
+Ce produit est un titre de créance de droit français.
+
+Durée
+Ce produit a une durée de vie de 12 ans mais peut être remboursé plus tôt selon les conditions indiquées dans la section « objectifs » ci-dessous
+
+Objectifs
+Ce produit est un produit de placement qui vise à fournir un rendement tel que décrit ci-après.
+
+Sous-jacent
+Indice : Euro iSTOXX® 50 Equal Weight NR Decrement 5 % (Code Bloomberg: ISXE50T5 Index)
+Sponsor de l’Indice : STOXX Limited
+
+Comment le rendement est déterminé
+Le produit ne porte pas d’intérêt et ne donne donc pas lieu à versement de coupon.
+
+Remboursement du produit
+Remboursement anticipé automatique
+Pour i de 1 à 11, si, à une quelconque Date de Constatation i du Remboursement par Anticipation, le niveau de clôture de l’Indice est supérieur ou
+égal à 105% du Niveau de l'Indice Initial alors, à la Date de Paiement i concernée, l’Emetteur remboursera chaque titre de créance au montant
+calculé comme suit :
+N x [100% + (19%+3% * i)]
+
+Remboursement à échéance
+En l’absence de remboursement par anticipation, le montant qui vous sera remboursé à la Date d’Echéance dépendra du niveau de l’Indice à la
+Date de Constatation Finale :
+Vous recevez l’intégralité du Montant Nominal ainsi qu’une prime de 55%, si le niveau de l’Indice Final à la Date de Constatation Finale
+est supérieur ou égal à 105% du Niveau de l’Indice Initial.
+Vous recevez l’intégralité du Montant Nominal, si le niveau de l’Indice Final à la Date de Constatation Finale est strictement inférieur à
+105% du Niveau de l’Indice Initial et supérieur ou égal à 70% du Niveau de l’Indice Initial.
+Vous subissez une perte en capital égale à la baisse de l’Indice, si le niveau de l’Indice à la Date de Constatation Finale est strictement
+inférieur à 70% du Niveau de l’Indice Initial.
+
+Informations complémentaires
+Date d’Emission : 08 avril 2024
+Date d’Echéance : 10 juin 2036
+Montant Nominal : 1.000 €
+Date de Constatation Initiale : 04 juin 2024
+Niveau de l’Indice Initial : à définir
+Date de Constatation Finale : 03 juin 2036
+Niveau de l'Indice Final : à définir
+Dates de Constatation : 03 juin 2025, 03 juin 2026, 03 juin 2027, 05 juin 2028, 04 juin 2029, 03 juin 2030, 03 juin 2031, 03 juin 2032, 03 juin 2033,
+05 juin 2034, 04 juin 2035.
+Dates de Paiement : 10 juin 2025, 10 juin 2026, 10 juin 2027, 12 juin 2028, 11 juin 2029, 10 juin 2030, 10 juin 2031, 10 juin 2032, 10 juin 2033, 12
+juin 2034, 11 juin 2035.
+Toutes les dates font l’objet d’ajustements si elles ne correspondent pas à un jour de bourse et, le cas échéant, en cas d’événements perturbateurs
+du marché.
+Les termes du produit prévoient que si certains évènements définis, en plus de ceux décrits ci-dessus, se produisent (principalement mais pas
+exclusivement en relation avec le Sous-jacent, ou l'Emetteur du produit qui peuvent inclure l'interruption de la capacité de l'Emetteur à mener les
+
+transactions de couvertures nécessaires), des ajustements peuvent être faits aux termes du produit pour prendre en compte l'évènement concerné
+ou le produit pourra être remboursé par anticipation. Le montant payé lors de tout remboursement par anticipation peut être inférieur au montant
+investi initialement.
+
+Investisseurs de détail visés
+Ce produit est principalement destiné aux souscripteurs qui :
+- Recherchent un produit de placement avec une indexation aux évolutions du marché actions
+- Recherchent un produit de placement avec une protection contre une baisse modérée du marché actions
+- Sont capables de conserver le produit pendant la durée recommandée.
+
+Quels sont les risques et qu´est-ce que cela pourrait me rapporter ?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+-
+
++
+
+Risque le plus faible
+
+!
+
+7
+
+Risque le plus élevé
+
+L’indicateur de risque part de l’hypothèse que vous conservez
+le produit jusqu’au 10 juin 2036.
+Le risque réel peut être très différent si vous optez pour une
+sortie avant échéance, et vous pourriez obtenir moins en
+retour.
+Vous pourriez subir des coûts supplémentaires importants
+ainsi qu'une perte de capital si vous sortez du produit avant
+échéance.
+
+Nous avons classé ce produit dans la classe de risque 5
+sur 7, qui est une classe de risque entre moyenne et
+élevée.
+Autrement dit, les pertes potentielles liées aux futurs
+résultats du produit se situent à un niveau entre moyen et
+élevé et, si la situation venait à se détériorer sur les
+marchés, il est très peu probable que notre capacité à
+vous payer en soit affectée. Vous recevrez des paiements
+libellés dans la devise du produit, qui est susceptible de
+différer de votre devise nationale.
+Dans ce cas, prenez bien conscience du risque de
+change. Ledit risque n'est pas pris en compte dans
+l'indicateur susmentionné. Ce produit ne prévoyant pas de
+protection contre les aléas de marché, vous pourriez
+perdre tout ou partie de votre investissement.
+Si nous ne sommes pas en mesure de vous verser les
+sommes dues, vous pouvez perdre l'intégralité de votre
+investissement.
+
+Scénarios de Performance
+Montant notionnel
+
+1 an
+
+6 ans
+
+12 ans
+
+de 10 000 EUR
+
+(période de
+
+Scénarios
+
+détention
+recommandée)
+
+Scénario de tension
+
+Ce que vous pourriez obtenir après déduction
+des coûts
+Rendement annuel moyen
+
+Scénario
+défavorable
+
+Ce que vous pourriez obtenir après déduction
+des coûts
+Rendement annuel moyen
+
+Scénario
+intermédiaire
+
+Ce que vous pourriez obtenir après déduction
+des coûts
+Rendement annuel moyen
+
+Scénario favorable
+
+Ce que vous pourriez obtenir après déduction
+des coûts
+Rendement annuel moyen
+
+EUR 4643,44
+
+EUR 1786,61
+
+EUR 1222,76
+
+-53,57%
+
+-24,95%
+
+-16,06%
+
+EUR 8040,6
+
+EUR 12600
+
+EUR 15096,15
+
+-19,59%
+
+3,93%
+
+3,49%
+
+EUR 11100
+
+EUR 12717,58
+
+EUR 15235,16
+
+11%
+
+4,09%
+
+3,57%
+
+EUR 12200
+
+EUR 13817,58
+
+EUR 16335,16
+
+22%
+
+5,54%
+
+4,17%
+
+Ce tableau montre les sommes que vous pourriez obtenir sur 12 ans, en fonction de différents scénarios, en supposant que vous investissiez 10
+000 EUR. Les différents scénarios montrent comment votre produit pourrait se comporter. Vous pouvez les comparer avec les scénarios d'autres
+produits. Les scénarios présentés sont une estimation de performances futures à partir de données du passé relatives aux variations de la valeur
+de ce produit. Ils ne constituent pas un indicateur exact. Ce que vous obtiendrez dépendra de l'évolution du marché et de la durée pendant laquelle
+vous conserverez le produit. Le scénario de tensions montre ce que vous pourriez obtenir dans des situations de marché extrêmes, et ne tient pas
+compte du cas où nous ne pourrions pas vous payer.
+Il n’est pas facile de sortir de ce produit. Par conséquent, il est difficile d’estimer combien vous obtiendriez ou payeriez si vous en sortez avant
+échéance. Il est possible que vous ne puissiez pas sortir du produit avant son échéance et que vous subissiez des pertes ou des frais importants
+dans un tel cas.
+Les chiffres indiqués comprennent tous les coûts du produit lui-même. Ces chiffres ne tiennent pas compte de votre situation fiscale personnelle,
+qui peut également influer sur les montants que vous recevrez.
+
+Que se passe-t-il si Crédit Mutuel Arkéa n´est pas en mesure d´effectuer les versements ?
+Si Crédit Mutuel Arkéa fait défaut ou est mis en faillite, vous pourriez subir une perte partielle ou totale du montant investi. Votre investissement
+n’est couvert par aucun système de garantie ou d’indemnisation. Si l’émetteur fait l’objet de mesures au regard de la réglementation relative au
+mécanisme de renflouement interne des institutions financières (bail-in), votre réclamation peut être réduite à zéro, convertie en actions ou subir
+une modification de la maturité.
+Vous trouverez les notations de Crédit Mutuel Arkéa : https://www.cm-arkea.com/arkea/banque/assurances/c_8763/fr/notations
+
+Que va me coûter cet investissement ?
+La réduction du rendement (RIY) montre l'incidence des coûts totaux que vous payez sur le rendement que vous pourriez obtenir de votre
+investissement. Les coûts totaux incluent les coûts ponctuels, récurrents et accessoires.
+Les montants indiqués ici sont les coûts cumulés liés au produit lui-même, pour trois périodes de détention différentes. Ils incluent les pénalités de
+sortie anticipée potentielles. Les chiffres présentés supposent que vous investissiez 10 000 EUR. Ces chiffres sont des estimations et peuvent
+changer à l'avenir.
+
+Coûts au fil du temps
+Il se peut que la personne qui vous vend ce produit ou qui vous fournit des conseils à son sujet vous demande de payer des coûts de distribution
+éventuels supplémentaires.
+Si c'est le cas, cette personne vous informera au sujet de ces coûts de distribution et vous montrera l'incidence de l'ensemble des coûts sur votre
+investissement au fil du temps.
+
+Investissement de 10 000 EUR
+Scénarios
+
+Si vous sortez après 1 An
+
+Si vous sortez après 6 Ans
+
+Si vous sortez après à la fin
+de la Période de détention
+recommandée 12 ans
+
+Coûts totaux
+
+1096,54
+
+1025,09
+
+1031
+
+Incidence sur le rendement
+(réduction du rendement) par an
+
+10,97%
+
+1,45%
+
+0,6%
+
+Composition des coûts
+Le tableau ci-dessous indique:
+
+l'incidence annuelle des différents types de coûts sur le rendement que vous pourriez obtenir de votre investissement à la fin de la
+période d'investissement recommandée (soit 12 ans)
+
+la signification des différentes catégories de coûts
+
+Ce tableau montre l’incidence sur le rendement par an
+
+Coûts
+ponctuels
+
+Coûts
+récurrents
+
+Coûts
+accessoires
+
+Coûts d’entrée
+
+0.6%
+
+Coûts de sortie
+
+0.00%
+
+Coûts de transaction de
+portefeuille
+
+0.00%
+
+Autres coûts récurrents
+
+0.00%
+
+Commissions liées aux
+résultats
+Commissions
+d’intéressement
+
+0.00%
+0.00%
+
+L’incidence des coûts que vous payez lors de l’entrée dans votre investissement.
+L’incidence des coûts déjà inclus dans le prix.
+L´incidence de coûts encourus lorsque vous sortez de votre investissement à
+l´échéance.
+L´incidence des coûts encourus lorsque nous achetons ou vendons des
+investissements sous-jacents au produit.
+L´incidence des coûts que nous prélevons chaque année pour gérer vos
+investissements et les coûts présentés à la section II.
+L´incidence des commissions liées aux résultats.
+L´incidence des commissions d´intéressement.
+
+Combien de temps dois-je le conserver, et puis-je retirer de l´argent de façon anticipée ?
+Période de détention recommandée: 12 ans
+Ce titre est construit dans la perspective d’un investissement pour toute la durée de vie du produit. Il est donc fortement recommandé de n’acheter
+ce titre que si vous avez l’intention de le conserver jusqu’à son échéance.
+Une annulation ou un remboursement anticipé du produit, à l’initiative du client, n’est pas autorisé, sauf cas prévus contractuellement. Le client peut
+vendre le produit avant sa date d’échéance, tant qu’il y a suffisamment de liquidité sur le marché. Dans ce cas, le client n’a pas droit à une
+rémunération et peut subir une perte si le prix de vente est inférieur au montant nominal investi.
+
+Comment puis-je formuler une réclamation ?
+Pour les réclamations concernant ce produit ou le comportement de son initiateur, vous pouvez contacter Crédit Mutuel Arkéa à l’adresse :
+back-office.clientele@arkea.com ou par courrier à l'adresse postale suivante : Crédit Mutuel Arkéa, Back Office Clientèle, 1 rue Louis Lichou, 29480
+Le Relecq-Kerhuon.
+
+Autres informations pertinentes
+Les autres risques et informations concernant le produit sont détaillés dans la fiche produit. La fiche produit peut être obtenue auprès de la
+personne vous ayant vendu le produit. Vous pouvez trouver la documentation juridique des titres de créance qui est composée: (a) du Prospectus
+de
+Base
+en
+date
+du
+14
+novembre
+2023
+et
+approuvé
+par
+l'AMF
+sous
+le
+n°23-473
+(https://www.cmarkea.com/arkea/banque/assurances/c_22060/fr/prospectus-structures-novembre-2023), (b) le cas échéant, de ses Suppléments, (c) des
+Conditions Définitives de l'émission ainsi que (d) du Résumé Spécifique lié à l'émission. Ces documents sont disponibles sur le site internet de
+Crédit Mutuel Arkéa.
+

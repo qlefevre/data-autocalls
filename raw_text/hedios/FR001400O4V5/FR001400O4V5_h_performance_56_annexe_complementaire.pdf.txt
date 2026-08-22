@@ -1,0 +1,344 @@
+Je soussigné(e) ………..…..……………………………………………………………………………….…… (Prénom NOM)
+adhérent / souscripteur au contrat ………………………………………………………………….….… (Nom du contrat)
+numéro ….....………………………………………………………………………………….……………………. (Numéro du contrat)
+
+H Performance 56
+Code ISIN FR001400O4V5
+Annexe complémentaire de présentation du support
+En cas de choix d’investissement sur des unités de compte représentées par les titres de créances complexes non garantis en
+capital et soumises au double risque de crédit ou de défaut de paiement du Crédit Mutuel Arkéa.
+
+CARACTERISTIQUES PRINCIPALES DU SUPPORT
+
+Dénomination
+
+H Performance 56
+
+Emetteur
+
+Crédit Mutuel Arkéa
+
+Forme juridique
+
+Titre de créance complexe de droit français présentant un risque de perte en
+capital partielle ou totale en cours de vie et à l’échéance.
+
+Code ISIN
+
+FR001400O4V5
+
+Agent de calcul
+
+Crédit Mutuel Arkéa, ce qui peut être source de conflits d’intérêts.
+
+Montant Nominal de l’émission
+
+50 000 000 EUR
+
+Devise
+
+EUR
+
+Valeur nominale d’une coupure du
+Titre de Créance (la « Valeur
+Nominale »)
+
+1 000 EUR
+
+Sous-jacent (ci-après l’« Indice »)
+
+L’Indice de référence Euro iStoxx® 50 Equal Weight NR Decrement 5 %
+(code Bloomberg : ISXE50T5 index) (dividendes nets réinvestis en
+retranchant un prélèvement forfaitaire constant de 5 % par an) est un indice
+actions créé, calculé et publié par STOXX®, depuis le 16 février 2018.
+Il est composé des 50 plus grandes capitalisations boursières listées au sein
+de la zone euro. Les 50 actions composant l’Indice de référence sont
+sélectionnées annuellement et rebalancées trimestriellement. Contrairement
+aux indices standards dividendes nets non réinvestis, dont les composants
+sont pondérés principalement sur la base de leur capitalisation boursière
+flottante, l’Indice de référence Euro iStoxx® 50 Equal Weight NR Decrement
+5 % équipondère l’ensemble de ses constituants. Ainsi, chaque action
+représente 2 % du poids global de l’Indice de référence à chaque date de
+rebalancement.
+Le prélèvement forfaitaire, fixé lors de la conception de l’Indice de référence
+peut avoir un impact négatif sur son niveau par rapport au même indice
+dividendes nets non réinvestis, sans prélèvement forfaitaire, ce qui pourrait,
+dans certains cas, être moins favorable pour le souscripteur. Si les
+dividendes nets distribués par les actions composant l’Indice de référence
+sont inférieurs au niveau de prélèvement forfaitaire, la performance de
+l’Indice de référence en sera pénalisée par rapport au même indice standard
+dividendes nets non réinvestis.
+
+Prix d’émission
+
+100% de la valeur nominale
+
+Période de souscription
+
+Du 08/04/2024 au 31/05/2024
+
+Date d’émission
+
+08/04/2024
+
+Date de constatation initiale
+
+04/06/2024
+
+Dates de constatation Annuelle
+
+3 juin 2025; 3 juin 2026; 3 juin 2027; 5 juin 2028; 4 juin 2029; 3 juin 2030;
+3 juin 2031; 3 juin 2032; 3 juin 2033; 5 juin 2034; 4 juin 2035
+
+Dates de remboursement
+automatique anticipé
+
+Le 5ème jour ouvré suivant la date de constatation annuelle correspondante.
+
+Date de constatation finale
+
+03/06/2036
+
+Page 1 sur 5
+
+Annexe complémentaire de présentation du support – H Performance 56 - Code ISIN FR001400O4V5
+
+1. PRESENTATION SUCCINCTE
+
+10/06/2036
+
+Lieu de cotation
+
+Euronext Paris
+
+Droit applicable
+
+Droit français
+
+Durée de l’investissement
+
+12 ans maximum
+
+Documentation Juridique
+
+Une information complète sur le titre de créance, notamment ses facteurs de
+risques inhérents au titre de créance ne peut être obtenue qu’en lisant la
+documentation juridique des titres de créance qui est composée :
+• du Prospectus de Base en date du 14 novembre 2023 approuvé par
+l’Autorité des Marchés Financiers ("AMF") sous le n° 23-473 et le cas
+échéant, des Suppléments au Prospectus de Base, (https://www.cmarkea.com/arkea/banque/assurances/c_22060/fr/prospectus-structuresnovembre-2023)
+•
+des
+Conditions
+Définitives
+de
+l’émission,
+(https://www.cmarkea.com/arkea/banque/assurances/c_24952/fr/conditions-definitives-hperformance-56)
+• du Résumé Spécifique lié à l’émission.
+Informations importantes :
+• le Prospectus de Base relatif à l’émission des Instruments Financiers a été
+approuvé en date du 14/11/2023 par l’AMF sous le n° 23-473 et est
+disponible sur les sites de l’AMF (www.amf-france.org) et de l’Émetteur
+(www.cm-arkea.com).
+Étant entendu que l’approbation du Prospectus de Base par l’AMF ne doit pas
+être considérée comme un avis favorable sur le support.
+• Crédit Mutuel Arkéa informe les souscripteurs qu’un supplément au
+Prospectus de Base peut être publié a posteriori pendant la période de
+commercialisation.
+Les souscripteurs qui auront déjà accepté de souscrire des Instruments
+Financiers avant la date de publication d’un supplément au Prospectus de
+Base auront le droit de retirer leur acceptation pendant une période de trois
+jours ouvrables après la publication du supplément précité. Les
+intermédiaires financiers aideront les souscripteurs qui auront déjà accepté
+de souscrire des Instruments Financiers avant la date de publication du
+potentiel supplément, et qui le souhaitent, à exercer leur droit de retirer leur
+acceptation.
+Restriction de vente : il appartient à chaque souscripteur de s’assurer qu’il
+est autorisé à investir sur le support. Le support fait notamment l’objet d’une
+restriction permanente aux Etats-Unis et ne peut en aucun cas être acquis
+par des "US Person".
+Document d’informations clés : la dernière version du document
+d’informations clés (KID) relatif à ce produit peut être consultée et
+téléchargée
+à
+l’adresse
+:
+https://www.cmarkea.com/arkea/banque/assurances/assurances/c_24953/fr/kidhperformance-56.
+
+Concernant les modalités en cas de remboursement anticipé ou à l'échéance, le capital acquis sera automatiquement versé sans
+frais sur le fonds en euros du contrat ou sur un fonds à vocation sécuritaire du contrat, éligible au moment du versement.
+Fin anticipée de la période de souscription
+
+Nonobstant la période de souscription décrite ci-dessus, la souscription du présent support en unités de compte est susceptible
+d’être interrompue, sans préavis, avant l’expiration de la période précitée.
+Le cas échéant, le souscripteur accepte que les sommes qui devaient être investies sur ce support en unités de compte soient
+investies, sans frais supplémentaires, sur un fonds en euros du contrat ou sur un support en unité de compte à vocation sécuritaire
+du contrat identifié comme éligible par l’assureur au moment de l’opération.
+2. INFORMATIONS CONCERNANT LES PLACEMENTS ET LA GESTION
+Objectifs et politique d’investissement
+Le titre de créance H Performance 56 (ci-après le « Titre de Créance ») est construit dans la perspective d’un investissement
+d’une durée maximale de 12 ans (hors cas de remboursement automatique anticipé), soit une Date d’échéance fixée au
+10/06/2036.
+Le Titre de Créance est un produit de placement présentant un risque de perte en capital en cours de vie et à
+l’échéance.
+À la date de constatation initiale, soit le 4 juin 2024, on observe le niveau de clôture de l’Indice et on le retient comme niveau
+initial.
+
+Page 2 sur 5
+
+Annexe complémentaire de présentation du support – H Performance 56 - Code ISIN FR001400O4V5
+
+Date d’échéance
+
+MÉCANISME DE REMBOURSEMENT ANTICIPÉ AUTOMATIQUE ANNUEL (Années 1 à 11)
+À chaque date de constatation annuelle(1) à partir de l’année 1, dès que le niveau de l’Indice de référence est en hausse d’au
+moins 5 % par rapport à son niveau initial(1), un mécanisme de remboursement anticipé automatique est activé et le
+souscripteur reçoit(2), à la date de remboursement anticipé automatique(1) correspondante :
+CAPITAL INVESTI
++
+19 % DE GAIN
++
+3 % par année écoulée depuis la date de constatation initiale (1)
+(Soit un Taux de Rendement Annuel Brut maximum de 21,61%(2))
+Le produit prend alors automatiquement fin par anticipation, sinon le produit continue.
+
+MÉCANISME DE REMBOURSEMENT À L’ÉCHÉANCE (Année 12)
+À la date de constatation finale(1), le 3 juin 2036, si le mécanisme de remboursement anticipé automatique n’a pas été activé
+précédemment, on observe le niveau de clôture de l’Indice de référence par rapport à son niveau initial.
+Lors du remboursement final, le 10 juin 2036, le souscripteur reçoit(2) :
+Scénario très défavorable : Baisse de plus de 30 % de l’Indice de référence par rapport à son niveau initial :
+CAPITAL INVESTI x Valeur finale de l’Indice de référence(3)
+=
+PERTE EN CAPITAL ÉGALE À L’INTÉGRALITÉ DE LA BAISSE DE L’INDICE DE RÉFÉRENCE (PERTE SUPÉRIEURE A
+30%)
+(Soit un Taux de Rendement Annuel Brut inférieur à -2,92%(2))
+
+Scénario défavorable : Baisse de moins de 30 % (compris) ou hausse de moins de 5 % (non compris) de l’Indice de référence
+par rapport à son niveau initial :
+CAPITAL INVESTI
+(Soit un Taux de Rendement Annuel Brut de 0,00%(2))
+=
+BLOCAGE DU CAPITAL PENDANT 12 ANS SANS AUCUNE RÉMUNÉRATION
+Scénario favorable : Hausse de 5 % ou plus de l’Indice de référence par rapport à son niveau initial :
+CAPITAL INVESTI
++
+19% DE GAIN
++
+36% DE GAIN
+(soit 3% par année écoulée)
+=
+Remboursement à hauteur de 155% du capital investi
+(Soit un Taux de Rendement Annuel Brut de 3,71%(2))
+
+(1) Veuillez-vous référer au tableau récapitulant les principales caractéristiques en page 1 de cette annexe.
+(2) Hors fiscalité, prélèvements sociaux applicables et/ou frais liés au cadre d'investissement, et sauf faillite défaut de paiement et mise en
+résolution de l’Émetteur et/ou du Garant de la formule.
+(3) Exprimée en pourcentage de la valeur initiale de l’Indice de référence constatée à sa date de constatation initiale (le 04 juin 2024).
+Principaux facteurs de risque
+Avant tout investissement dans ce produit, les investisseurs sont invités à se rapprocher de leurs conseils
+financiers, fiscaux, comptables et juridiques. Le produit est un instrument de diversification, ne pouvant constituer
+l'intégralité d'un portefeuille d'investissement. Vous êtes sur le point d'acheter un produit qui n'est pas simple et
+qui peut être difficile à comprendre. Les facteurs de risques présentés ci-dessous ne sont pas exhaustifs :
+Risque de perte de capital : Le produit présente un risque de perte en capital partielle ou totale, en cours de vie et/ou à
+l’échéance. En cas de revente avant la date d’échéance ou, selon le cas, avant la date de remboursement anticipé, il est
+impossible de mesurer a priori le gain ou la perte possible, le prix de vente dépendant alors des paramètres de marché du jour.
+En outre, la valeur de remboursement du titre peut être inférieure au montant de l’investissement initial dépendant de la
+performance finale du sous-jacent. Dans le pire des scénarios, la perte en capital peut être totale.
+
+Page 3 sur 5
+
+Annexe complémentaire de présentation du support – H Performance 56 - Code ISIN FR001400O4V5
+
+H Performance 56 se comporte comme un placement actions classique.
+
+Risque de crédit et Risque lié à l’éventuelle défaillance de l’Émetteur/ du Garant : Le souscripteur supporte le risque de
+défaut de paiement et de faillite de l’Émetteur ainsi que le risque de défaut de paiement, de faillite et de mise en résolution du
+Garant de la formule. En conséquence, l’insolvabilité de l’Émetteur peut entraîner la perte totale ou partielle du montant investi.
+Conformément à la réglementation relative au mécanisme de renflouement interne des institutions financières (bail-in), en cas
+de défaillance probable ou certaine de l’Émetteur/ du Garant de la formule, le souscripteur est soumis à un risque de diminution
+de la valeur de ses titres de créance, de conversion de ses titres de créance en d’autres types de titres financiers (y compris des
+actions) et de modification (y compris potentiellement d’extension) de la maturité de ses titres de créance.
+Risque de marché : Le produit peut connaître à tout moment d’importantes fluctuations de cours (en raison de l’évolution, non
+seulement du niveau du sous-jacent, mais aussi notamment de sa volatilité et des taux d’intérêt), pouvant aboutir dans certains
+cas à la perte totale du montant investi.
+Risque de liquidité : Certaines circonstances de marché exceptionnelles peuvent avoir un effet défavorable sur la liquidité du
+titre, voire rendre ce titre totalement illiquide. Il se peut que l'investisseur ne soit pas en mesure de vendre facilement le produit
+ou qu’il doive le vendre à un prix qui impacte de manière significative le montant qu'il lui rapporte. Cela peut entraîner une perte
+partielle ou totale du montant investi.
+Risques liés à la réalisation d’évènements exceptionnels affectant les sous-jacents : Ajustement, substitution,
+remboursement ou résiliation anticipée – Afin de prendre en compte les conséquences sur le produit de certains événements
+extraordinaires pouvant affecter le (ou les) instrument(s) sous-jacent(s) du produit, la documentation relative au produit peut
+prévoir des modalités d’ajustement ou de substitution et, dans certains cas, le remboursement automatique anticipé du produit.
+Ces éléments peuvent entraîner une perte sur le produit.
+
+3. INFORMATIONS SUR LES FRAIS*
+La commission ponctuelle, notamment de distribution, pourra atteindre un montant maximum annuel de 0,65 % du montant
+nominal des Titres de créance placés, calculée sur la durée de vie maximale des titres.
+Le paiement de l’intégralité de la commission pourra être réalisé en une seule fois à l’émission des titres de créance.
+De plus amples informations sont disponibles auprès du distributeur sur demande.
+*hors prélèvements sociaux, fiscalité et frais liés au contrat (cf. Conditions contractuelles).
+
+AVERTISSEMENT
+
+SURAVENIR ne s’engage que sur le nombre d’unités de compte, mais pas sur leur valeur. La valeur des unités de
+compte reflète la valeur d’actifs sous-jacents. Elle n’est pas garantie mais est sujette à des fluctuations à la hausse
+ou à la baisse dépendant en particulier de l’évolution des marchés financiers.
+SURAVENIR précise que la valeur liquidative retenue pour le support dans le cadre des contrats d'assurance sur la vie correspond
+au cours de clôture du fonds.
+L’attention de l’investisseur est également attirée sur le fait que la distribution du Titre de Créance se fera par
+l’intermédiaire des caisses locales de Crédit Mutuel affiliées aux fédérations du Crédit Mutuel de Bretagne et du
+Sud-Ouest ce qui pourrait être source de conflits d’intérêts. Par ailleurs, l’Emetteur agit en qualité d’Agent de Calcul
+ceci pouvant également donner lieu à un conflit d’intérêts dans l’hypothèse d’une perturbation de marché.
+
+DECLARATION DU SOUSCRIPTEUR
+Je reconnais avoir :
+
+
+
+
+reçu et pris connaissance des caractéristiques principales, du Document d’Informations clés et de la
+documentation commerciale du support d’investissement H Performance 56 - Code ISIN FR001400O4V5,
+que je choisis aujourd’hui comme support en unité de compte dans le cadre de mon contrat d’assurancevie, de capitalisation ou de retraite
+été pleinement informé des caractéristiques du support d’investissement et compte tenu de mes
+connaissances et expériences en matière financière, avoir parfaitement compris :
+o la nature du support et les risques y afférents,
+o les mécanismes compris dans la formule de calcul pour déterminer la réalisation d’un gain ou d’une
+perte du support en fonction d’un scénario de marché,
+o l’absence de garantie en capital tant en cours de vie du support qu’à sa date d’échéance.
+
+Page 4 sur 5
+
+Annexe complémentaire de présentation du support – H Performance 56 - Code ISIN FR001400O4V5
+
+L’attention de l’Investisseur est attirée sur le fait qu’une sortie du Titre de Créance à d’autres dates que les dates prévues
+contractuellement, notamment suite à un arbitrage, un rachat total ou partiel sur son contrat, un décès ou à une conversion en
+rente, s’effectuera à un prix qui dépendra des paramètres de marché ce jour-là et qui pourra être très différent (inférieur ou
+supérieur) du montant résultant de l’application de la formule annoncée. L’Investisseur prend donc un risque de perte en capital
+non mesurable a priori s’il réalise son désinvestissement avant la Date d’échéance.
+
+QUESTIONNAIRE
+Pour s’en assurer, vous êtes invité(e) à répondre au questionnaire ci-après :
+La durée de vie maximale de H Performance 56 est de 12 ans.
+À chaque date de constatation annuelle à partir de l’année 1, dès que le niveau de l’Indice de
+référence Euro iStoxx 50 Equal Weight NR Decrement 5 % est en hausse d’au moins 5 % par
+rapport à son niveau initial, un mécanisme de remboursement anticipé automatique est activé.
+H Performance 56 présente un risque de perte en capital partielle ou totale en cours de vie
+(rachat, arbitrage, conversion en rente et décès) et à l’échéance.
+L’Indice de référence Euro iStoxx 50 Equal Weight NR Decrement 5 % (ISXE50T5 index) est
+calculé en réinvestissant les dividendes nets détachés par les actions qui le composent et en
+retranchant un prélèvement forfaitaire de 5 % par an, supérieur à la moyenne historique des
+dividendes de l’Indice de référence. Si les dividendes nets distribués sont inférieurs au niveau du
+prélèvement forfaitaire, la performance de l’Indice de référence en sera pénalisée par rapport au
+même indice standard dividendes nets non réinvestis.
+Fait à ………………………………………………………………………… , le …… / …… / ……………
+Signature de l’adhérent /du souscripteur,
+précédée de la mention « lu et approuvé »
+
+Page 5 sur 5
+
+Annexe complémentaire de présentation du support – H Performance 56 - Code ISIN FR001400O4V5
+
+SURAVENIR : Siège social : 232, rue Général Paulet – BP 103 – 29802 BREST CEDEX 9. Société anonyme à directoire et conseil de surveillance au
+capital entièrement libéré de 1 235 000 000 €. Société mixte régie par le code des assurances. SIREN 330 033 127 RCS BREST. SURAVENIR est
+une société soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution (4 Place de Budapest, CS 92459, 75436 Paris Cedex 09).
+

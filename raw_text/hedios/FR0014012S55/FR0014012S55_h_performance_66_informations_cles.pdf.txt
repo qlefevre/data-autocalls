@@ -1,0 +1,439 @@
+OBJECTIF
+Le présent document contient des informations essentielles sur le produit d'investissement. Il ne s’agit pas d'un document à caractère commercial. Ces informations
+vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste ce produit et quels risques, coûts, gains et pertes
+potentiels y sont associés, et de vous aider à le comparer à d'autres produits.
+PRODUIT
+Nom du produit :
+
+H Performance 66
+
+Nom de l’initiateur du PRIIP :
+
+Natixis (Emetteur : Natixis Structured Issuance / Garant : Natixis), faisant partie du groupe BPCE
+
+Identifiant
+
+Code ISIN : FR0014012S55
+
+Site Web de l’initiateur du PRIIP :
+
+www.natixis.com
+
+Pour de plus amples informations appelez
+le :
+
++33(1)58.55.47.00
+
+Réglementée par :
+
+Autorité des Marchés Financiers et Autorité de Contrôle Prudentiel et de Résolution est chargée du contrôle de Natixis
+Structured Issuance en ce qui concerne ce document d’informations clés
+
+Date de production du document
+d’informations clés :
+
+17 septembre 2025
+
+Vous êtes sur le point d'acheter un produit qui n'est pas simple et qui peut être difficile à comprendre.
+EN QUOI CONSISTE CE PRODUIT?
+Type
+Le produit se présente sous la forme d'un titre de créance, régi par le droit français.
+Durée
+
+La date d'échéance du produit est le 11 janvier 2038 et il est recommandé de conserver le produit jusqu'à maturité, ou jusqu'à ce qu'un
+événement de remboursement automatique anticipé se produise selon les conditions spécifiées ci-dessous.
+
+Objectifs
+
+Fournir des paiements d'intérêt, en échange du risque de perte en capital. Les montants indiqués ci-dessous se rapportent à chaque Montant
+Nominal investi.
+
+•
+
+Evènement de Remboursement Automatique Anticipé : si la Performance du Sous-jacent est supérieure ou égale à 10% à toute Date
+d’Evaluation de Remboursement Automatique Anticipé, le produit sera remboursé par anticipation et vous recevrez, en plus du Montant
+Nominal, un montant égal au Montant d'Intérêt correspondant au Montant d'Intérêt par période à la prochaine Date de Paiement. Aucun
+autre paiement de principal ou d'intérêt ne sera effectué suivant ce paiement et ce remboursement anticipé.
+
+•
+
+Montant de Remboursement à la Date de Maturité :
+
+o
+
+Si le produit n'est pas remboursé par anticipation, alors vous recevrez l’un des montants suivants :
+
+
+
+
+
+Si un Evènement de Barrière ne s'est pas produit :
+
+o
+
+Si la Performance Finale du Sous-jacent est supérieure ou égale à 10%, vous recevrez en plus du Montant Nominal, le
+Montant d'Intérêt, correspondant au Montant d'Intérêt par période.
+
+o
+
+Si la Performance Finale du Sous-jacent est inférieure à 10%, vous recevrez le Montant Nominal.
+
+Sinon, vous recevrez un montant égal au Montant Nominal diminué d’un montant égal au Montant Nominal multiplié par la
+valeur absolue de la Performance Finale du Sous-jacent. Le montant payé dans un tel cas sera inférieur au Montant Nominal
+et vous pourrez perdre tout ou partie de votre capital.
+
+Dates, Valeurs Clés et Définitions
+Toutes les dates peuvent faire l’objet d'ajustements en cas de jours non ouvrés et, le cas échéant, en cas d’événements perturbateurs du
+marché.
+
+•
+
+Sous-jacent(s) : EURO iSTOXX 70 Equal Weight Decrement 5%
+EUR (ISIN : CH0321427582)
+
+•
+
+Performance du Sous-jacent : (a) la Valeur de Clôture du Sousjacent à une date donnée divisée par sa Valeur Initiale, moins (b)
+100%, exprimée en pourcentage
+
+•
+
+Performance Finale du Sous-jacent : la Performance du Sousjacent à la Date d’Evaluation Finale
+
+•
+
+Evènement de Barrière : un Evènement de Barrière est considéré
+comme s'étant produit si la Valeur de Clôture du Sous-jacent est
+en dessous de 70% de sa Valeur Initiale à la Date d’Evaluation
+Finale
+
+•
+
+Valeur Initiale : la Valeur de Clôture du Sous-jacent à la Date
+d'Evaluation Initiale
+
+•
+
+Valeur de Clôture : la valeur du Sous-jacent à la clôture du
+marché lors d'un jour ouvré donné
+
+•
+•
+•
+
+Montant Nominal : 1 000 EUR
+
+Natixis Internal Reference: 99399
+
+Prix d’Emission : 100% du Montant Nominal
+Montant d'Intérêt par période : 36,00%, 39,00%, 42,00%, 45,00%,
+48,00%, 51,00%, 54,00%, 57,00%, 60,00%, 63,00%, 66,00% ou
+69,00%. Chaque Montant d'Intérêt est multiplié par le Montant
+Nominal
+
+•
+
+Dates :
+o Date d’Emission : 20 octobre 2025
+o Date de Maturité : 11 janvier 2038
+o Dates de Paiement : 5 jours ouvrés après chaque Date
+d’Evaluation (autre que la Date d’Evaluation Initiale)
+o Date d'Evaluation Initiale : 2 janvier 2026
+o Dates d’Evaluation de Remboursement Automatique
+Anticipé : 4 janvier 2027 (inclus) puis tous les ans au
+même jour calendaire que la première date de
+référence (ou le jour ouvré suivant si celui-ci n’est pas
+un jour ouvré), jusqu'à la Date d’Evaluation Finale
+(exclue)
+o Date d’Evaluation Finale : 4 janvier 2038
+
+Remboursements anticipés et ajustements
+Les termes du produit prévoient que si certains évènements définis, en plus de ceux décrits ci-dessus, se produisent principalement mais pas
+exclusivement en relation avec le Sous-jacent, ou l'Emetteur du produit qui peuvent inclure l'interruption de la capacité de l'Emetteur à mener
+les transactions de couvertures nécessaires), des ajustements peuvent être faits aux termes du produit pour prendre en compte l'évènement
+concerné ou le produit pourra être remboursé par anticipation. Le montant payé lors de tout remboursement par anticipation peut être inférieur
+au montant investi initialement.
+Investisseurs de
+détail visés
+
+Ce produit est destiné aux investisseurs de détail qui :
+• ont un objectif de croissance du capital
+• sont disposés et capables de supporter une perte totale de leur capital et acceptent le risque crédit de l’Emetteur et du Garant
+• ont une tolérance au risque en ligne avec l'indicateur synthétique de risque de ce document
+• ont une connaissance et une expérience suffisantes des produits tel que celui décrit dans ce document
+• ont un horizon d'investissement minimum compatible avec la période de détention recommandée
+
+QUELS SONT LES RISQUES ET QU'EST-CE QUE CELA POURRAIT ME RAPPORTER ?
+Indicateur de Risque
+
+Risque le plus élevé
+
+Risque le plus faible
+
+L’indicateur de risque part de l'hypothèse que vous conservez le
+produit jusqu'à la date du 11 janvier 2038. Le risque réel peut
+être très différent si vous optez pour une sortie avant échéance,
+et vous pourriez obtenir moins en retour. Vous risquez de ne pas pouvoir
+vendre facilement votre produit, ou de devoir le vendre à un prix qui influera
+sensiblement sur le montant que vous percevrez en retour.
+
+L’indicateur synthétique de risque permet d’apprécier le niveau de risque de ce
+produit par rapport à d’autres. Il indique la probabilité que ce produit enregistre des
+pertes en cas de mouvements sur les marchés ou d’une impossibilité de notre part
+de vous payer. Nous avons classé ce produit dans la classe de risque 5 sur 7, une
+classe de risque entre moyenne et élevée. Ceci prend en compte deux éléments : 1)
+le risque de marché - le fait que les pertes potentielles liées aux futurs résultats du
+produit sont évaluées à un niveau entre moyen et élevé ; et 2) le risque de crédit : le
+fait qu’il soit très peu probable que de mauvaises conditions de marché affectent la
+capacité de l'Emetteur et du Garant à vous payer. Vous recevrez des paiements dans
+la devise du produit, qui peut être différente de votre devise. Dans ce cas, soyez
+conscient du risque de change. Le rendement final que vous obtiendrez dépend du
+taux de change entre les deux devises. Ce risque n'est pas pris en compte dans
+l'indicateur ci-dessus. Ce produit ne prévoyant pas de protection contre les aléas de
+marché, vous pourriez perdre tout ou partie de votre investissement. Si l'Emetteur et
+le Garant ne sont pas en mesure de vous verser les sommes dues, vous pouvez
+perdre l'intégralité de votre investissement.
+
+Scénarios de performance
+Ce que vous obtiendrez de ce produit dépend des performances futures du marché. L’évolution future du marché est aléatoire et ne peut être prédite avec précision.
+Les scénarios présentés représentent des exemples basés sur les résultats du passé et sur certaines hypothèses. Les marchés pourraient évoluer très
+différemment à l’avenir.
+Jusqu’à ce que le produit soit remboursé par anticipation ou arrive à
+échéance
+
+Période de détention recommandée :
+
+Elle peut être différente selon le scénario et est indiquée dans le tableau
+Exemple d’investissement :
+
+10 000 EUR
+
+Scénarios
+
+Si vous sortez après
+1 an
+
+Si vous sortez après
+7 ans
+
+Si vous sortez à la date de
+remboursement anticipé ou
+à l’échéance
+
+Minimum
+
+Il n’existe aucun rendement minimal garanti. Vous pourriez perdre tout ou une partie de votre investissement.
+
+Tensions
+
+Ce que vous pourriez
+déduction des coûts
+
+(le produit est résilié après 12,2
+années)
+
+Rendement annuel moyen
+
+Défavorable
+
+Ce que vous pourriez
+déduction des coûts
+
+(le produit est résilié après 1,2
+années)
+
+Rendement annuel moyen
+
+Intermédiaire
+
+Ce que vous pourriez
+déduction des coûts
+
+(le produit est résilié après 2,2
+années)
+
+Rendement annuel moyen
+
+Favorable
+
+Ce que vous pourriez
+déduction des coûts
+
+(le produit est résilié après 6,2
+années)
+
+Rendement annuel moyen
+
+obtenir
+
+obtenir
+
+obtenir
+
+obtenir
+
+après
+
+après
+
+après
+
+après
+
+1 661 EUR
+
+2 335 EUR
+
+1 871 EUR
+
+-83,39%
+
+-18,76%
+
+-12,81%
+
+8 036 EUR
+
+13 600 EUR (Ω)
+
+-19,64%
+
+28,47% (Ω)
+
+12 625 EUR
+
+13 900 EUR (Ω)
+
+26,25%
+
+15,95% (Ω)
+
+13 818 EUR
+
+15 100 EUR (Ω)
+
+38,18%
+
+6,85% (Ω)
+
+(Ω) Dans ce scénario, le produit a été remboursé par anticipation, au terme spécifié dans le scénario. Les résultats affichés dans la colonne la plus à droite représentent la
+valeur et le rendement lors de l'appel anticipé, sans réinvestir les paiements.
+Les chiffres indiqués comprennent tous les coûts du produit lui-même, mais pas nécessairement tous les frais dus à votre conseiller ou distributeur. Ces chiffres ne tiennent
+pas compte de votre situation fiscale personnelle, qui peut également influer sur les montants que vous recevrez. Le scénario de tensions montre ce que vous pourriez
+obtenir dans des situations de marché extrêmes. Les scénarios favorable, modéré, défavorable et de stress représentent les résultats possibles qui ont été calculés sur la
+base de simulations utilisant les performances passées de l'actif de référence sur une période allant jusqu'à 5 ans. Sauf mention contraire expresse, les rendements
+indiqués sont des taux nominaux qui ne tiennent pas compte du niveau de l’inflation. Le rendement réel peut être significativement inférieur dans un contexte de forte
+inflation.
+QUE SE PASSE-T-IL SI NATIXIS N'EST PAS EN MESURE D'EFFECTUER LES VERSEMENTS ?
+Si l’Emetteur et/ou le Garant fait l’objet de mesures au regard de la réglementation relative au mécanisme de renflouement interne des institutions financières («bailin»), votre créance peut être réduite à zéro, convertie en actions ou subir un report d’échéance. Ce produit ne prévoit pas de système de garantie ou de système
+d'indemnisation des investisseurs. Si l'Emetteur et le Garant sont incapables de payer et/ou sont en situation de défaut, vous pourriez perdre tout ou partie de votre
+investissement et il se pourrait que tout paiement soit retardé.
+Natixis Internal Reference: 99399
+
+QUE VA ME COUTER CET INVESTISSEMENT ?
+Il se peut que la personne qui vous vend ce produit ou qui vous fournit des conseils à son sujet vous demande de payer des coûts supplémentaires. Si c’est le cas, cette
+personne vous informera au sujet de ces coûts et vous montrera l’incidence de ces coûts sur votre investissement.
+Coûts au fil du temps
+Les tableaux présentent les montants prélevés sur votre investissement afin de couvrir les différents types de coûts. Ces montants dépendent du montant que vous
+investissez, du temps pendant lequel vous détenez le produit et du rendement du produit. Les montants indiqués ici sont des illustrations basées sur un exemple de
+montant d’investissement et différentes périodes d’investissement.
+La durée de ce produit est aléatoire étant donné qu’il peut être résilié à différents moments selon l’évolution du marché. Les montants indiqués ici prennent en
+considération deux scénarios différents (remboursement anticipé et échéance). Dans le cas où vous choisissez de sortir avant la fin du produit, des coûts de sortie
+peuvent s’appliquer en plus des montants indiqués ici.
+Nous avons supposé:
+
+•
+•
+
+10 000 EUR sont investis.
+une performance du produit qui correspond à chaque période de détention présentée.
+Investissement 10 000 EUR
+
+Si le produit est remboursé par anticipation dès la
+première date possible 11 janvier 2027
+
+Si le produit arrive à échéance
+
+Coûts totaux
+
+815 EUR
+
+815 EUR
+
+Incidence des coûts annuels (*)
+
+9,2% chaque année
+
+0,7% chaque année
+
+(*) Elle montre dans quelle mesure les coûts réduisent annuellement votre rendement au cours de la période de détention. Par exemple, il montre que si vous sortez à
+l'échéance, votre rendement moyen par an devrait être 5,11% avant déduction des coûts et de 4,38% après cette déduction.
+Composition des coûts
+Coûts ponctuels à l’entrée ou à la sortie
+Coûts d’entrée
+Coûts de sortie
+
+8,15% du montant que vous payez au moment de l’entrée dans l’investissement. Ces coûts sont
+déjà inclus dans le prix que vous payez.
+0,50% du montant que vous payez en quittant ce placement. Nous ne facturons pas de frais de
+sortie pour ce produit si vous sortez à la période de détention recommandée ou en cas de
+remboursement automatique anticipé.
+
+Si vous sortez après 1 an
+815 EUR
+50 EUR
+
+Coûts récurrents prélevés chaque année
+Frais de gestion et autres frais
+administratifs et d’exploitation
+Coûts de transaction
+
+0,00% de la valeur de votre investissement par an. Cette estimation se base sur les coûts réels
+au cours de l’année dernière.
+0,00% de la valeur de votre investissement par an. Il s'agit d'une estimation des coûts encourus
+lorsque nous achetons et vendons les investissements sous-jacents au produit. Le montant
+réel varie en fonction de la quantité que nous achetons et vendons.
+
+0 EUR
+0 EUR
+
+Coûts accessoires prélevés sous certaines conditions
+Commissions liées aux résultats
+(et
+commission
+d’intéressement)
+
+Aucune commission liée aux résultats n’existe pour ce produit.
+
+0 EUR
+
+COMBIEN DE TEMPS DOIS-JE LE CONSERVER ET PUIS-JE RETIRER DE L’ARGENT DE FAÇON ANTICIPEE ?
+Période de détention recommandée : 12,2 ans.
+La période de détention recommandée correspond à la date de maturité du produit, le produit étant conçu pour être conservé jusque-là. Toute recommandation
+concernant la période de détention peut ne pas être pertinente pour un investisseur spéculatif. Pour les investisseurs achetant le produit à des fins de couverture, la
+période de détention dépend de la période de détention du risque sous-jacent.
+Natixis pourra fournir un prix indicatif du produit aux porteurs qui le demanderaient. La différence entre le prix d’achat et le prix de vente ne pourra excéder 1%. Si vous
+voulez vendre ce produit avant la Date de Maturité, le prix du produit dépendra des paramètres du marché au moment où vous souhaitez le vendre. Dans ce cas, vous
+pourriez avoir à supporter une perte partielle ou totale de votre investissement. Plus d'informations disponibles sur demande.
+l'Initiateur n'est pas tenu d'effectuer un marché secondaire pour le produit, mais peut choisir de racheter les produits au cas par cas. Des informations supplémentaires
+sont disponibles sur demande.
+COMMENT PUIS-JE FORMULER UNE RECLAMATION ?
+Pour toute réclamation concernant le service que vous avez reçu lié à ce produit, vous pouvez contacter votre conseiller habituel. A tout moment, dans le cas où vous
+souhaiteriez déposer une réclamation concernant ce produit ou le service que vous avez reçu, vous pouvez le faire en contactant votre conseiller ou le service des
+réclamations de Natixis à l’adresse suivante : natixis.groupebpce.com/fr/reclamations/ ou par écrit à NATIXIS Service de traitement des réclamations - CORPORATE
+AND INVESTMENT BANKING 7 promenade Germaine Sablon – 75013 Paris - France ou encore par mail à ld-m-premiumkids@natixis.com
+AUTRES INFORMATIONS PERTINENTES
+Le prospectus (un prospectus de base complété de temps à autre et complété par les conditions définitives ou un prospectus et, le cas échéant, toute section sommaire
+applicable associée) en vertu duquel le produit est émis est disponible gratuitement auprès de l'Initiateur à l'adresse suivante : Natixis CIB, 7 promenade Germaine
+Sablon – 75013 Paris - France et peut être disponible sur le site web suivant de l'Initiateur https://cib.natixis.com/home/pims/prospectus#/prospectusPublic.
+Les informations contenues dans ce Document d'Informations Clés (KID) ne constituent pas une recommandation d'acheter ou de vendre le produit et ne remplacent
+pas la consultation individuelle avec la banque de l'investisseur ou le conseiller. Vous pouvez obtenir plus d'informations à propos de ce produit auprès de votre conseiller
+financier. Ce Document d'Informations Clés est un document précontractuel qui vous donne les principales informations sur le produit (caractéristiques, risques, coûts
+…). Si vous effectuez une transaction, une confirmation de transaction vous sera envoyée après la transaction.
+Lorsque ce produit est utilisé comme support en unité de compte d’un contrat d’assurance sur la vie ou de capitalisation, les informations complémentaires sur ce
+contrat, telles que les coûts du contrat, qui ne sont pas compris dans les coûts indiqués dans le présent document, le contact en cas de réclamation et ce qui se passe
+en cas de défaillance de l’entreprise d’assurance sont présentées dans le document d’informations clés de ce contrat obligatoirement remis par votre assureur ou
+courtier ou tout autre intermédiaire d’assurance conformément à son obligation légale.
+
+Natixis Internal Reference: 99399
+

@@ -1,0 +1,712 @@
+Document d'Informations Clés
+Objectif
+Ce document vous présente les informations clés concernant ce produit. Ce n'est pas du matériel promotionnel. Ces informations sont
+exigées par la réglementation PRIIP (Package Retail and Insurance-Based Investment Products Regulation) pour vous aider à comprendre les
+éléments clés, les risques, les coûts ainsi que les gains et les pertes potentiels engendrés par ce produit, et pour vous aider à le comparer
+avec d'autres produits concernés par les PRIIP.
+
+Produit
+Nom du produit
+
+H Rendement 62
+
+Identificateurs du produit
+
+ISIN: FRIP00001SB9 | Numéro de série: F05210
+
+Initiateur du PRIIP
+
+Morgan Stanley & Co. International plc (https://sp.morganstanley.com/EU/)
+
+Numéro de téléphone
+
++44-20-7677-6140
+
+Autorité compétente de l'initiateur du PRIIP
+
+Morgan Stanley & Co. International plc n'est pas établi dans l'Union Européenne (UE) ni supervisé par une autorité compétente de l'UE. Morgan Stanley & Co.
+International plc est agréé au Royaume-Uni par l'Autorité de Régulation Prudentielle (UK Prudential Regulation Authority) et réglementé par l'Autorité de Conduite
+Financière (UK Financial Conduct Authority) ainsi que l'Autorité de Régulation Prudentielle.
+
+Date et heure de production
+
+8 octobre 2025 à 16:09 heure locale à Paris
+
+Vous êtes sur le point d'acheter un produit qui n’est pas simple et qui peut être difficile à comprendre.
+
+1. En quoi consiste ce produit?
+Type
+
+Titres de créance régis par le droit français / Le rendement dépend de la performance de l'actif sous-jacent / Aucune protection du capital contre le risque de marché
+
+Durée
+
+Le produit a une durée déterminée et sera échu le 9 février 2038, à moins qu’un événement de remboursement par anticipation ne se produise.
+
+Le produit est conçu pour fournir un rendement sous forme d'un paiement à l'échéance. Le moment et le montant de ce paiement dépendront de la performance de l'actif sous-jacent.
+Le paiement à l'échéance ne sera pas supérieur à 2 248,00 EUR. Si, à l'échéance, le niveau de référence final de l'actif sous-jacent s'est déprécié(e) et est inférieur(e) à 70,00 % du
+niveau de référence initial, le montant de remboursement final pourrait être inférieur au montant nominal du produit ou même être égal à zéro.
+(Les termes qui apparaissent en
+gras dans cette section sont décrits Résiliation anticipée suite à un remboursement par anticipation: Le produit sera remboursé de façon anticipée avant la date d'échéance si, à une date d'observation du
+plus en détail dans les tableaux ci- remboursement par anticipation, le niveau de référence est supérieur ou égal au niveau de la barrière de remboursement par anticipation. Lors d'une telle résiliation anticipée,
+dessous.)
+vous recevrez à la date de paiement du remboursement par anticipation associée, un paiement égal au paiement du remboursement par anticipation correspondant. Les dates
+mentionnées et les paiements du remboursement par anticipation sont indiqué(e)s dans les tableaux ci-dessous.
+
+Objectifs
+
+.
+
+Dates d'observation du remboursement par anticipation Dates de paiement du remboursement par anticipation
+
+Paiements du remboursement
+automatique par anticipation
+
+2 février 2027
+
+9 février 2027
+
+1 104,00 EUR
+
+3 mai 2027
+
+10 mai 2027
+
+1 130,00 EUR
+
+2 août 2027
+
+9 août 2027
+
+1 156,00 EUR
+
+2 novembre 2027
+
+9 novembre 2027
+
+1 182,00 EUR
+
+2 février 2028
+
+9 février 2028
+
+1 208,00 EUR
+
+2 mai 2028
+
+9 mai 2028
+
+1 234,00 EUR
+
+2 août 2028
+
+9 août 2028
+
+1 260,00 EUR
+
+2 novembre 2028
+
+9 novembre 2028
+
+1 286,00 EUR
+
+2 février 2029
+
+9 février 2029
+
+1 312,00 EUR
+
+2 mai 2029
+
+9 mai 2029
+
+1 338,00 EUR
+
+2 août 2029
+
+9 août 2029
+
+1 364,00 EUR
+
+2 novembre 2029
+
+9 novembre 2029
+
+1 390,00 EUR
+
+4 février 2030
+
+11 février 2030
+
+1 416,00 EUR
+
+2 mai 2030
+
+9 mai 2030
+
+1 442,00 EUR
+
+2 août 2030
+
+9 août 2030
+
+1 468,00 EUR
+
+4 novembre 2030
+
+11 novembre 2030
+
+1 494,00 EUR
+
+3 février 2031
+
+10 février 2031
+
+1 520,00 EUR
+
+2 mai 2031
+
+9 mai 2031
+
+1 546,00 EUR
+
+4 août 2031
+
+11 août 2031
+
+1 572,00 EUR
+
+3 novembre 2031
+
+10 novembre 2031
+
+1 598,00 EUR
+
+2 février 2032
+
+9 février 2032
+
+1 624,00 EUR
+
+3 mai 2032
+
+10 mai 2032
+
+1 650,00 EUR
+
+2 août 2032
+
+9 août 2032
+
+1 676,00 EUR
+
+2 novembre 2032
+
+9 novembre 2032
+
+1 702,00 EUR
+
+2 février 2033
+
+9 février 2033
+
+1 728,00 EUR
+
+2 mai 2033
+
+9 mai 2033
+
+1 754,00 EUR
+
+2 août 2033
+
+9 août 2033
+
+1 780,00 EUR
+
+2 novembre 2033
+
+9 novembre 2033
+
+1 806,00 EUR
+
+2 février 2034
+
+9 février 2034
+
+1 832,00 EUR
+
+2 mai 2034
+
+9 mai 2034
+
+1 858,00 EUR
+
+2 août 2034
+
+9 août 2034
+
+1 884,00 EUR
+
+2 novembre 2034
+
+9 novembre 2034
+
+1 910,00 EUR
+
+2 février 2035
+
+9 février 2035
+
+1 936,00 EUR
+
+2 mai 2035
+
+9 mai 2035
+
+1 962,00 EUR
+
+2 août 2035
+
+9 août 2035
+
+1 988,00 EUR
+
+2 novembre 2035
+
+9 novembre 2035
+
+2 014,00 EUR
+
+4 février 2036
+
+11 février 2036
+
+2 040,00 EUR
+
+2 mai 2036
+
+9 mai 2036
+
+2 066,00 EUR
+
+4 août 2036
+
+11 août 2036
+
+2 092,00 EUR
+
+3 novembre 2036
+
+10 novembre 2036
+
+2 118,00 EUR
+
+2 février 2037
+
+9 février 2037
+
+2 144,00 EUR
+
+4 mai 2037
+
+11 mai 2037
+
+2 170,00 EUR
+
+3 août 2037
+
+10 août 2037
+
+2 196,00 EUR
+
+Page 1
+
+DocID: / 3be9b99e-6914-4ac1-b3bf-f6cb3cfee559
+
+2 novembre 2037
+
+9 novembre 2037
+
+2 222,00 EUR
+
+.
+
+Remboursement à la date d'échéance: Si le produit n'a pas été remboursé par anticipation, à la date d'échéance, vous recevrez:
+1.
+
+si le niveau de référence final est supérieur ou égal à 105,00 % du niveau de référence initial, un paiement de 2 248,00 EUR;
+
+2.
+
+si le niveau de référence final est supérieur ou égal à 70,00 % du niveau de référence initial et inférieur à 105,00 % du niveau de référence initial, un paiement de
+1 000,00 EUR; ou
+
+3.
+
+si le niveau de référence final est inférieur à 70,00 % du niveau de référence initial, un paiement directement lié à la performance de l'actif sous-jacent. Ce paiement sera
+égal à (i) le montant nominal du produit multiplié par (ii) (A) le niveau de référence final divisé par (B) le niveau de référence initial.
+
+.
+
+Selon les termes du produit, certaines dates spécifiées ci-dessus et ci-dessous seront ajustées si la date en question n'est pas un jour ouvré ou un jour de négociation (selon le cas).
+Tout ajustement peut affecter le rendement, le cas échéant, que vous recevrez.
+Les termes du produit prévoient également que, si certains événements exceptionnels se produisent (1) des ajustements peuvent être apportés au produit et/ou (2) l'émetteur peut
+procéder au remboursement anticipé du produit. Ces événements sont spécifiés dans les modalités du produit et concernent principalement l'actif sous-jacent, le produit et l'émetteur.
+Le rendement (le cas échéant) que vous recevrez en cas de remboursement anticipé est susceptible d'être différent du rendement dans les scénarios décrits ci-dessus et peut être
+inférieur au montant que vous avez investi.
+Vous ne bénéficierez d'aucun dividende ou de droits liés à la détention de l'actif sous-jacent (par exemple, les droits de vote).
+.
+
+Actif sous-jacent
+
+L'indice EiSTX50 EW NR 5PC (EUR)P INDEX
+(Indice des cours de marché) (ISIN: CH0313264480;
+Bloomberg: ISXE50T5 Index)
+
+Niveau de référence initial
+
+Le niveau de référence à la date d'évaluation
+initiale
+
+Catégorie d'actif
+
+Actions
+
+Niveau de référence
+
+Le niveau de clôture de l'actif sous-jacent selon la
+source de référence
+
+Montant nominal du produit
+
+1 000,00 EUR
+
+Source de référence
+
+STOXX
+
+Prix d'émission
+
+100,00 % du montant nominal du produit
+
+Niveau de référence final
+
+Le niveau de référence à la date d'évaluation
+finale
+
+Devise du produit
+
+Euro (EUR)
+
+Date d'évaluation initiale
+
+2 février 2026
+
+Devise de l'actif sous-jacent
+
+EUR
+
+Date d'évaluation finale
+
+2 février 2038
+
+Période de souscription
+
+du 20 novembre 2025 (inclus) au 2 février 2026
+(inclus)
+
+Date d'échéance / durée
+
+9 février 2038
+
+Date d'émission
+
+27 octobre 2025
+
+Niveau de barrière de
+remboursement par anticipation
+
+105,00 % du niveau de référence initial
+
+.
+
+Investisseurs de détail Le produit est destiné à être offert aux investisseurs de détail qui remplissent tous les critères ci-dessous:
+visés
+1.
+ils possèdent des connaissances et/ou expériences de bases de l'investissement dans des produits similaires offrant une exposition similaire sur le marché et ont la
+capacité de comprendre le produit et ses risques et avantages éventuels, soit de manière indépendante, soit par des conseils professionnels;
+
+2.
+
+ils recherchent la croissance de leur capital, s'attendent à ce que l'actif sous-jacent évolue de manière à générer un rendement positif. Ils disposent d'un horizon
+d'investissement long et comprennent que le produit peut être remboursé de façon anticipée;
+
+3.
+
+ils sont en mesure de supporter une perte totale de leur investissement initial, cohérent avec le profil de remboursement du produit à l'échéance (risque de marché);
+
+4.
+
+ils acceptent le risque que l'émetteur puisse ne pas payer ou exécuter ses obligations au titre du produit quel que soit le profil de remboursement du produit (risque de
+crédit);
+
+5.
+
+ils sont prêts à accepter un niveau de risque de 5 sur 7 pour obtenir des rendements potentiels qui reflète un risque entre moyen et élevé (de la manière indiquée dans
+l'indicateur synthétique de risque ci-dessous qui prend en compte tant le risque de marché que le risque de crédit).
+
+2. Quels sont les risques et qu’est-ce que cela pourrait me rapporter?
+Indicateur de risque
+
+Risque le plus faible
+
+Risque le plus élevé
+L'indicateur de risque part de l'hypothèse que vous conservez le produit jusqu'au 9 février 2038. Le risque réel peut être très diffèrent si vous
+optez pour une sortie avant échéance, et vous pourriez obtenir moins en retour. Vous risquez de ne pas pouvoir vendre facilement votre produit,
+ou de devoir le vendre à un prix qui influera sensiblement sur le montant que vous percevrez en retour.
+
+L’indicateur synthétique de risque permet d'apprécier le niveau de risque de ce produit par rapport à d’autres. Il indique la probabilité que ce produit enregistre des pertes en cas de
+mouvements sur les marchés ou d'une impossibilité de notre part de vous payer.
+Nous avons classé ce produit dans la classe de risque 5 sur 7, qui est une classe de risque entre moyenne et élevée. Autrement dit, les pertes potentielles liées aux futurs résultats du
+produit se situent à un niveau entre moyen et élevé et, si la situation venait à se détériorer sur les marchés, il est très peu probable que notre capacité à vous payer en soit affectée.
+L'inflation érode la valeur d'achat de l'argent au fil du temps, ce qui peut provoquer la baisse en termes réels de tout capital remboursé.
+Ce produit ne prévoyant pas de protection contre les aléas de marché, vous pourriez perdre tout ou partie de votre investissement.
+Si nous ne sommes pas en mesure de vous verser les sommes dues, vous pouvez perdre l'intégralité de votre investissement.
+Pour obtenir des informations détaillées sur tous les risques liés au produit, veuillez-vous reporter aux sections sur les risques dans le prospectus ainsi qu'aux suppléments éventuels y
+figurant, comme indiqué dans la section « 7. Autres informations pertinentes » ci-dessous.
+
+Scénarios de
+performance
+
+Ce que vous obtiendrez de ce produit dépend des performances futures du marché. L’évolution future du marché est aléatoire et ne peut être prédite avec précision.
+Les scénarios présentés représentent des exemples basés sur les résultats du passé et sur certaines hypothèses. Les marchés pourraient évoluer très différemment à
+l’avenir.
+Période de détention recommandée:
+
+Jusqu’à ce que le produit soit remboursé par anticipation ou arrive à échéance
+Ceci peut être différent selon le scénario et est indiqué dans le tableau
+
+Exemple d’investissement:
+
+10 000 EUR
+
+Scénarios
+
+Minimum
+
+Si vous sortez après 1 an
+
+Si vous sortez après 7 ans
+
+Si vous sortez suite à
+un remboursement par
+anticipation ou à l’échéance
+
+Il n’existe aucun rendement minimal garanti. Vous pourriez perdre tout ou une partie de votre investissement.
+
+Tensions
+
+Ce que vous pourriez obtenir après déduction des
+coûts
+(le produit est remboursé après Rendement annuel moyen
+12 ans et 3 mois)
+
+3 790 EUR
+
+1 582 EUR
+
+1 165 EUR
+
+-62,10 %
+
+-23,16 %
+
+-16,05 %
+
+Défavorable
+
+Ce que vous pourriez obtenir après déduction des
+coûts
+(le produit est remboursé après Rendement annuel moyen
+12 ans et 3 mois)
+
+6 046 EUR
+
+3 282 EUR
+
+3 069 EUR
+
+-39,54 %
+
+-14,71 %
+
+-9,17 %
+
+Intermédiaire
+
+Ce que vous pourriez obtenir après déduction des
+coûts
+(le produit est remboursé après Rendement annuel moyen
+1 an et 3 mois)
+
+8 883 EUR
+
+11 040 EUR
+
+-11,17 %
+
+8,01 %
+
+Favorable
+
+10 778 EUR
+
+13 900 EUR
+
+Ce que vous pourriez obtenir après déduction des
+coûts
+
+Page 2
+
+DocID: / 3be9b99e-6914-4ac1-b3bf-f6cb3cfee559
+
+(le produit est remboursé après Rendement annuel moyen
+4 ans)
+
+7,78 %
+
+8,51 %
+
+.
+
+Les scénarios favorable, intermédiaire, défavorable et de tensions représentent des résultats possibles basés sur des simulations utilisant la performance passée de l'actif sous-jacent
+pendant une période jusqu'à 5 années. En cas de remboursement anticipé, il a été supposé qu'aucun réinvestissement n'a été réalisé. Le scénario de tensions montre ce que vous
+pourriez obtenir dans des situations de marché extrêmes. Il n’est pas facile de sortir de ce produit. Si vous sortez de l’investissement avant la fin de période de détention recommandée
+vous pourriez subir des coûts supplémentaires.
+Les chiffres indiqués comprennent tous les coûts du produit lui-même, mais pas nécessairement tous les frais dus à votre conseiller ou distributeur. Ces chiffres ne tiennent pas compte
+de votre situation fiscale personnelle, qui peut également influer sur les montants que vous recevrez.
+
+3. Que se passe-t-il si Morgan Stanley & Co. International plc n’est pas en mesure d’effectuer les versements?
+Vous êtes exposé au risque que l'émetteur ne soit pas en mesure d’honorer ses obligations concernant le produit, par exemple en cas de faillite ou de décision administrative de mesure de résolution. Cela peut avoir une
+incidence défavorable sur la valeur du produit et pourrait vous amener à perdre tout ou partie de votre investissement dans le produit. Le produit n'est pas couvert par un système de protection des dépôts.
+
+4. Que va me coûter cet investissement?
+Il se peut que la personne qui vous vend ce produit ou qui vous fournit des conseils à son sujet vous demande de payer des coûts supplémentaires. Si c’est le cas, cette personne vous informera au sujet de ces coûts et
+vous montrera l’incidence de ces coûts sur votre investissement.
+
+Coûts au fil du temps
+
+Les tableaux présentent les montants prélevés sur votre investissement afin de couvrir les différents types de coûts. Ces montants dépendent du montant que vous investissez, du
+temps pendant lequel vous détenez le produit et du rendement du produit. Les montants indiqués ici sont des illustrations basées sur un exemple de montant d’investissement et
+différentes périodes d’investissement.
+La durée de ce produit est aléatoire étant donné qu’il peut être résilié à différents moments selon l’évolution du marché. Les montants indiqués ici prennent en considération deux
+scénarios différents (remboursement anticipé et échéance). Dans le cas où vous choisissez de sortir avant la fin du produit, des coûts de sortie peuvent s’appliquer en plus des
+montants indiqués ici.
+Nous avons supposé:
+• que 10 000 EUR sont investis
+• une performance du produit qui correspond à chaque période de détention présentée.
+Si le produit est remboursé par anticipation
+à la première date possible, le 9 février 2027
+Coûts totaux
+Incidence des coûts annuels*
+
+Si le produit arrive à échéance
+
+972 EUR
+
+972 EUR
+
+8,96 % chaque année
+
+0,89 % chaque année
+
+.
+
+*Ceci montre dans quelle mesure les coûts réduisent annuellement votre rendement au cours de la période de détention. Par exemple, ceci montre que si vous sortez à l’échéance, il
+est prévu que votre rendement moyen par an soit de 7,71 % avant déduction des coûts et de 6,82 % après cette déduction.
+Il se peut que nous partagions les coûts avec la personne qui vous vend le produit afin de couvrir les services qu’elle vous fournit. Cette personne vous informera du montant.
+
+Composition des coûts
+
+.
+
+Si vous sortez après 1 an
+
+Coûts ponctuels à l’entrée ou à la sortie
+Coûts d'entrée
+
+9,72 % du montant que vous payez au moment de l’entrée dans l’investissement. Ces coûts sont déjà compris dans le
+prix que vous payez.
+
+972 EUR
+
+Coûts de sortie
+
+0,50 % de votre investissement avant qu’il ne vous soit payé. Ces coûts sont déjà compris dans le prix que vous
+recevrez et seront dus seulement si vous sortez avant échéance. Si un remboursement anticipé se produit ou que
+vous détenez le produit jusqu'à l'échéance, aucun coût de sortie ne sera dû.
+
+50 EUR
+
+Frais de gestion et autres
+frais administratifs et
+d’exploitation
+
+0,00 % de votre montant d'investissement chaque année. Ceci est une estimation des coûts réels.
+
+Coûts récurrents prélevés chaque année
+0 EUR
+
+.
+
+5. Combien de temps dois-je le conserver, et puis-je retirer de l’argent de façon anticipée?
+Période de détention recommandée: 12 ans
+Le produit vise à vous fournir le rendement décrit dans la section « 1. En quoi consiste ce produit? » ci-dessus. Toutefois, cela ne s'applique que si le produit est détenu jusqu'à l'échéance. Il est donc recommandé que le
+produit soit conservé jusqu'au 9 février 2038 (échéance), bien que le produit puisse être remboursé par anticipation.
+Le produit ne garantit pas la possibilité de désinvestir autrement qu'en vendant le produit soit (1) via la bourse (si le produit est négocié en bourse), soit (2) hors-marché si une offre pour le produit existe. Sauf indication
+contraire dans les coûts de sortie (veuillez voir la section « 4. Que va me coûter cet investissement? » ci-dessous), l'émetteur n’appliquera pas de frais ou pénalités supplémentaires pour une telle opération. Des frais
+d'exécution peuvent toutefois être facturés par votre courtier, le cas échéant. En vendant le produit avant l’échéance, vous encourez le risque de recevoir un rendement inférieur à celui que vous auriez reçu si vous aviez
+conservé le produit jusqu’à l'échéance.
+.
+
+Cotation boursière
+
+Luxembourg Stock Exchange (Main Segment)
+
+Plus petite unité négociable
+
+1 000,00 EUR
+
+Cotation de prix
+
+Pourcentage
+
+.
+
+Dans des conditions de marché volatiles ou exceptionnelles, ou en cas de défaillances ou perturbations techniques, l'achat et/ou la vente du produit peut être temporairement entravé et/ou suspendu et éventuellement peut
+ne pas être possible du tout.
+
+6. Comment puis-je formuler une réclamation?
+Toute plainte contre la conduite de la personne conseillant ou vendant le produit peut être soumise directement à cette personne.
+Toute plainte concernant le produit ou la conduite de l'initiateur de ce produit peut être soumise par écrit à l'adresse suivante: Morgan Stanley & Co. International plc, Structured Products Floor 01, 20 Bank Street, Canary
+Wharf, Londres, E14 4AD, par courrier électronique à: rspcomplaints@morganstanley.com. Veuillez voir aussi https://sp.morganstanley.com/EU/. Les plaintes doivent inclure le nom du produit, le numéro ISIN et le motif de
+la plainte.
+
+7. Autres informations pertinentes
+Les informations contenues dans ce Document d'Informations Clés ne constituent pas une recommandation d'achat ou de vente du produit et ne remplacent pas la consultation individuelle avec votre banque ou conseiller.
+Le produit n'est en aucune manière sponsorisé, vendu ou promu par un marché boursier pertinent, un indice pertinent ou une bourse ou un sponsor d'indices associé. Des informations complémentaires sur l'indice sont
+disponibles auprès de l'administrateur de l'indice.
+Ce produit n'a pas été enregistré en vertu du US Securities Act de 1933. Ce produit ne peut pas être offert ou vendu, directement ou indirectement, aux États-Unis ou aux US person. Le terme "US person" est défini dans
+la Règlementation S du US Securities Act de 1933, tel que modifié.
+Toute documentation supplémentaire concernant le produit, en particulier la documentation relative au programme d'émission, ses éventuels suppléments et les conditions définitives du produit sont publiées sur le site
+Web https://sp.morganstanley.com/EU/, conformément aux dispositions légales en vigueur. Ces documents sont également disponibles gratuitement à Morgan Stanley & Co. International plc, Structured Products Floor 01,
+20 Bank Street, Canary Wharf, Londres, E14 4AD.
+Lorsque ce produit est utilisé comme support en unité de compte d’un contrat d’assurance sur la vie ou de capitalisation, les informations complémentaires sur ce contrat, telles que les coûts du contrat, qui ne sont pas
+compris dans les coûts indiqués dans le présent document, le contact en cas de réclamation et ce qui se passe en cas de défaillance de l’entreprise d’assurance, sont présentées dans le document d’informations clés de
+ce contrat obligatoirement remis par votre assureur ou courtier ou tout autre intermédiaire d’assurance conformément à son obligation légale.
+
+Page 3
+
+DocID: / 3be9b99e-6914-4ac1-b3bf-f6cb3cfee559
+
